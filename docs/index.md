@@ -6,6 +6,10 @@ My name is Nick and I'm a senior software engineer at Microsoft. I have particip
 
 This handbook is my attempt to codify my learnings about software engineering interviews for the benefit of the software development community. This resouce is, and will always be, free of charge.
 
+::: tip THESE ARE MY OWN VIEWS
+Everything in this handbook represents my own views and not the views of any of my current or past employers.
+:::
+
 ## Target audience
 
 This handbook is directed at both new and experienced software engineering candidates. It focuses on individual contributor (IC) engineering rather than engineering management. If you are interviewing for engineering management positions, there may be still be some beneficial sections of this guide; however, much of it may not be applicable.
