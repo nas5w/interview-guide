@@ -2,6 +2,10 @@ export default {
   title: "InterviewHandbook.dev",
   description: "An free handbook for software development interviews.",
   themeConfig: {
+    socialLinks: [
+      //   { icon: "twitter", link: "https://twitter.com/tbd" },
+      //   { icon: "github", link: "https://github.com/tbd/tbd" },
+    ],
     sidebar: [
       {
         text: "Introduction",
