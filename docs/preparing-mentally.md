@@ -1,4 +1,4 @@
-# Preparing mentally
+# Preparing Mentally for the Interview Process
 
 - Software development interviewing is broken
 - Bias towards people who have time to prepare

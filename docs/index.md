@@ -7,4 +7,4 @@
   - https://www.techinterviewhandbook.org/
   - https://www.frontendinterviewhandbook.com/
 - Recommendation for how to consume this
-- How to get in touch/ask for help
+- Work in process. Provide feedback mechanism

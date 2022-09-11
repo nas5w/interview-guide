@@ -1,4 +1,4 @@
-# Types of interviews
+# Types of Interviews
 
 - Behavioral
 - Values

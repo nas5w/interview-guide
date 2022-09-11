@@ -1,4 +1,4 @@
-# Creating a schedule
+# Creating a Schedule
 
 - Most important part of the process
 - Without a schedule, you will have open-ended stress

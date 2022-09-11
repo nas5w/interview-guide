@@ -1,6 +1,7 @@
 # Leetcode Interviews
 
 - Most well-known, most feared interview type
+- While many big tech companies do leetcode, plenty of other companies do not. If you just really don't want to do leetcode, then don't do it. (hiring without whiteboards link?)
 - Reframe your relationship with this type of interview
   - It's possible the company will fail you if you don't get the absolute optimal solution, but that hasn't been my experience. They want to know how you think and how you communicate.
 - Understand what the interviewer is looking for

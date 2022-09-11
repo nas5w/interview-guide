@@ -10,6 +10,10 @@ export default {
           { text: "Preparing mentally", link: "/preparing-mentally" },
           { text: "Creating a schedule", link: "/creating-a-schedule" },
           { text: "Types of interviews", link: "/types-of-interviews" },
+          {
+            text: "Where should I interview?",
+            link: "/where-should-i-interview",
+          },
           { text: "Am I ready?", link: "/am-i-ready" },
         ],
       },
@@ -20,6 +24,7 @@ export default {
           { text: "Values", link: "/values" },
           { text: "Leetcode", link: "/leetcode" },
           { text: "Practical coding", link: "/practical-coding" },
+          { text: "System design", link: "/system-design" },
           { text: "Technical knowledge", link: "/technical-knowledge" },
         ],
       },
