@@ -40,12 +40,12 @@ export default {
         text: "Other",
         items: [
           { text: "Etiquette", link: "/etiquette" },
-          { text: "Staying positive", link: "/staying-positive" },
           {
             text: "Questions for the company",
             link: "/questions-for-the-company",
           },
           { text: "Resources", link: "/resouces" },
+          { text: "Feedback", link: "/feedback" },
         ],
       },
     ],

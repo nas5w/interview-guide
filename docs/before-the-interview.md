@@ -8,3 +8,4 @@
 - If virtual, get meeting links and download any required software
 - If virtual, ask what environment you'll be using and practice with it
 - Confirm your interview a couple days ahead of time
+- Ask about timeline, make sure it works with any other interviews you have

@@ -7,7 +7,7 @@
 
 - Types of questions
 
-  - List types of questions
+  - "Tell me about a time" versus "tell me how you would handle"
 
 - How to prepare
 
@@ -15,4 +15,8 @@
   - Create a matrix of projects vs. common question themes
 
 - Specific questions you should prepare
+
   - List specific questions you should prepare
+
+- Resources
+  - Link to that google guy's channel
