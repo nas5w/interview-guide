@@ -1,8 +1,12 @@
 # Am I Ready to Start Interviewing?
 
+## It's not a yes/no question
+
 This is _such_ a common question. The problem is it's not actually a yes/no question.
 
-Someone who has done little prep could get lucky in their interview and get the few questions they actually prepared for. Conversely, someone who has done a ton of prep might get very unlucky or have a bad day.
+Someone who has done little prep could get lucky: they could get an interview that perfectly matches things they already know or the few things they studied. Conversely, someone who has done a ton of prep might get very unlucky or have a bad day.
+
+## When in doubt, interview
 
 If you even feel remotely prepared, **go for it** . What the worst that could happen? You don't get the job. In that case:
 
