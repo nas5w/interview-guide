@@ -49,55 +49,82 @@ Those become the rows of my table. The columns are all the different projects I 
 | Leadership | I had to present my vision for better engineering practices to the CTO.                                           | No one was an infrastructure specialist so I stepped up to lead that area.                     | N/A                                                                                                                                               |
 | Conflicts  | Some senior engineers were resistant to the changes I was proposing so I had to convince them in 1:1s and demos.  | N/A                                                                                            | Team members could not come to consensus on data schema validation method. I championed a process to use a structured design document.            |
 
+### The STAR method
+
+The STAR method is a popular framework for answering past experience questions. STAR stands for:
+
+- **S**ituation - Lay the foundation for the story. Where were you working? What was the project? What role were you playing? Who else is involved in the story?
+- **T**ask - What task was at hand when the story takes place?
+- **A**ction - What action did you personally take to make the situation better (or if it was a mistake, what mistake did you make)?
+- **R**esult - What was the result? How did your action get things back on track? Or what happened as a result of your mistake?
+
+If appropriate to the situation, add a final thougth on what you learned. Companies like when candidates are capable of reflection and self-improvement.
+
 ### Quantify!
 
-Be sure to quantify your successes. Many organizations are data-driven and expect you to be as well. If possible try to tie your successes to revenue generated or, if not possible, tie your successes to something known to be correlated with revenue generated.
+Be sure to quantify your successes. Many organizations are data-driven and expect you to be as well. If possible try to tie your successes to revenue generated or, if not possible, tie your successes to something known to be correlated with revenue generated. Some good metrics that you may have affected:
+
+- Revenue
+- Number of users
+- Application performance metrics
+- Availability
+- Code quality measures
+- Team velocity
 
 ### Be careful with negatives
 
-Explain all problems and challenges with _empathy_. For example, if you had to deal with a disgruntled colleague, make sure you don't describe that person as "bad" but rather that they must have been going through a tough time.
+Explain all problems and challenges with _empathy_. For example, if you had to deal with a disgruntled colleague, make sure you don't describe that person as "bad" but rather that they must have been going through a tough time. I'm not saying to lie, but I would definitely advise you to _never_ badmouth a former employer or colleague.
 
 ### Talk about lessons learned
 
 Companies will likely ask you about mistakes or failures. All of us have made mistakes, but not all of us learn from them. Whenever you talk about your mistakes, make sure to talk about lessons you learned from those mistakes and, if you were able to take corrective action in the moment, talk about that too.
 
-## Example behavioral questions
+### Example past experience questions
 
-The following list is graciously taken from the [Tech Interview Handbook](https://www.techinterviewhandbook.org/behavioral-interview-questions/) under the MIT license. Make sure you check out this incredible resource for more information on behavioral interviews (and interviewing in general)!
+The following examples are graciously taken from the [Tech Interview Handbook](https://www.techinterviewhandbook.org/behavioral-interview-questions/) under the MIT license. Make sure you check out this incredible resource for more information on behavioral interviews (and interviewing in general)!
 
-1. Why do you want to work for X company?
-2. Why do you want to leave your current/last company?
-3. What are you looking for in your next role?
-4. Tell me about a time when you had a conflict with a co-worker.
-5. Tell me about a time in which you had a conflict and needed to influence somebody else.
-6. What project are you currently working on?
-7. What is the most challenging aspect of your current project?
-8. What was the most difficult bug that you fixed in the past 6 months?
-9. How do you tackle challenges? Name a difficult challenge you faced while working on a project, how you overcame it, and what you learned.
-10. What are you excited about?
-11. What frustrates you?
-12. Imagine it is your first day here at the company. What do you want to work on? What features would you improve on?
-13. What are the most interesting projects you have worked on and how might they be relevant to this company's environment?
-14. Tell me about a time you had a disagreement with your manager.
-15. Talk about a project you are most passionate about, or one where you did your best work.
-16. What does your best day of work look like?
-17. What is something that you had to push for in your previous projects?
-18. What is the most constructive feedback you have received in your career?
-19. What is something you had to persevere at for multiple months?
-20. Tell me about a time you met a tight deadline.
-21. If this were your first annual review with our company, what would I be telling you right now?
-22. Time management has become a necessary factor in productivity. Give an example of a time-management skill you've learned and applied at work.
-23. Tell me about a problem you've had getting along with a work associate.
-24. What aspects of your work are most often criticized?
-25. How have you handled criticism of your work?
-26. What strengths do you think are most important for your job position?
-27. What words would your colleagues use to describe you?
-28. What would you hope to achieve in the first six months after being hired?
-29. Tell me why you will be a good fit for the position.
+1. Tell me about a time when you had a conflict with a co-worker.
+2. Tell me about a time in which you had a conflict and needed to influence somebody else.
+3. What are the most interesting projects you have worked on and how might they be relevant to this company's environment?
+4. Tell me about a time you had a disagreement with your manager.
+5. Talk about a project you are most passionate about, or one where you did your best work.
+6. What is something that you had to push for in your previous projects?
+7. What is the most constructive feedback you have received in your career?
+8. What is something you had to persevere at for multiple months?
+9. Tell me about a time you met a tight deadline.
+10. Tell me about a problem you've had getting along with a work associate.
 
-- Specific questions you should prepare
+## Preparing for hypothetical questions
 
-  - List specific questions you should prepare
+In my experience these are a bit tougher than past experience questions due to their ambiguity. One of the best tips is from the aforementioned Jeff Sipe, who recommends asking clarifying questions (almost like a coding interview!) so you really understand your relationship to the sitation.
 
-- Resources
-  - Link to that google guy's channel
+Let's look at an example to see what I mean:
+
+> Interviewer: "How would you handle someone who seems disengaged with work and is not carrying their weight on the team?"
+
+The wrong thing to do here is start directly answering the question&mdash;you don't have enough information! Rather than diving into the answer, some great questions to ask would be:
+
+- What is my relation to this individual? Am I their manager? Colleague? Subordinate?
+- When did this start? Was it recent? Has it been going on for a while?
+- Is there an event that appears to have triggered this behavior?
+
+It's possible the interview says "it's up to you" in response to a lot of these questions, which is totally fine! That means _you_ get to provide the clarification and answer it in a way that best suits you.
+
+### Interpersonal problem-solving
+
+A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solutiont treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
+
+### Example hypothetical questions
+
+Here are some hyopothetical questions I have heard asked over the years:
+
+1. How would you handle someone who seems disengaged with work and is not carrying their weight on the team?
+2. What would you do if your manager wanted to go with a technical approach that you disagree with?
+3. How would you convince a colleague that your technical approach is better?
+4. A junior engineer on your team is being excluded from team activities. How would you fix this situation?
+5. What would you do if you realized your team was going to miss a deadline?
+6. A manager on a different team knows you're an excellent engineer and asks you for help but intentionally avoids speaking with your direct manager. What do you do?
+
+## Out of our comfort zone
+
+Behavioral questions, especially those that deal with interpersonal relationships, can be very much out of an engineer's comfort zone. It's tough&mdash;on one hand we're being asked to reverse a linked list and on another hand we're being asked to troubleshoot behavioral problems. Whether you think this is appropriate or fair, make sure you prep for this style of intervies!
