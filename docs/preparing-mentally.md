@@ -2,9 +2,7 @@
 
 ## Software development interviewing is really hard
 
-Companies often ask you to devote several hours interviewing (and countless more preparing). During interviews, you're asked to complete challenges that don't even relate to the actual job to which you're applying.
-
-These interviews are often biased towards people who have a lot of time to prepare. If you have children or other responsibilities, it can be extremely difficult to find the time to prepare. When you do find the time, you stress about whether you should actually be spending time with your family or attending to other obligations.
+Companies often ask you to devote several hours interviewing (and countless more preparing). During interviews, people look over your shoulder as you complete coding challenges, judging you as you go. Talk about stressful!
 
 ## You have to prepare mentally
 

@@ -16,7 +16,7 @@ This handbook is directed at both new and experienced software engineering candi
 
 ## Goals and non-goals
 
-There are a number of incredible existing resources that go in depth on different parts of the interview process. Rather than repeating the same content, this handbook intents to be more of a broard, easily-digestible resource. Where appropriate, I'll link to some of those other excellent resources.
+There are a number of incredible existing resources that go in depth on different parts of the interview process. Rather than repeating the same content, this handbook intends to be more of a broard, easily-digestible resource. Think of it as a survey course for tech interviewing. Where appropriate, I'll refer you to some of the other resources that contain excellent, in-depth material.
 
 ## How to read this handbook
 
