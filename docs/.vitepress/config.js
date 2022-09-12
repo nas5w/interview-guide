@@ -49,7 +49,7 @@ export default {
             text: "Questions for the company",
             link: "/questions-for-the-company",
           },
-          { text: "Resources", link: "/resouces" },
+          { text: "Resources", link: "/resources" },
           { text: "Feedback", link: "/feedback" },
         ],
       },

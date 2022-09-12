@@ -18,6 +18,17 @@ This handbook is directed at both new and experienced software engineering candi
 
 There are a number of incredible existing resources that go in depth on different parts of the interview process. Rather than repeating the same content, this handbook intends to be more of a broard, easily-digestible resource. Think of it as a survey course for tech interviewing. Where appropriate, I'll refer you to some of the other resources that contain excellent, in-depth material.
 
+**Goals:**
+
+- Digestible, easy to read
+- Opinionated
+- Be a foundational guide
+- Focus on methodology
+
+**Non-goals:**
+
+- Depth of information that exists in other handbooks
+
 ## How to read this handbook
 
 This handbook isn't _too_ long, so my recommendation is to read it front-to-back at first. There are a lot of concepts that I believe will just "stick" once you read them. During your studies, I recommend you check back to certain sections of the handbook to refresh your memory.

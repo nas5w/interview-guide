@@ -1,5 +1,9 @@
 # Preparing Mentally for the Interview Process
 
+## You've got this!
+
+First and foremost, you've got this! Software development interviews are hard and there are a lot of things you need to prep. But everyone going after the same jobs are _also_ mere mortals. The key is to make a plan, do your best, and be persistent.
+
 ## Software development interviewing is really hard
 
 Companies often ask you to devote several hours interviewing (and countless more preparing). During interviews, people look over your shoulder as you complete coding challenges, judging you as you go. Talk about stressful!
