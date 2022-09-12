@@ -27,7 +27,7 @@ There are a number of incredible existing resources that go in depth on differen
 
 **Non-goals:**
 
-- Depth of information that exists in other handbooks
+- Depth of information that exists in other resources
 
 ## How to read this handbook
 
