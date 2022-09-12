@@ -18,7 +18,7 @@ Far too often someone tells me they're preparing for software engineering interv
 2. start interviewing
 3. accept a job
 
-Milestones #2 and #3 are more in your control than you might think. If you miss any of your planned dates, you should start _course correcting_: what can you be doing differently to get better results? If you have been submitting your r&eacute;sum&eacute;s
+Milestones #2 and #3 are more in your control than you might think. If you miss any of your planned dates, you should start _course correcting_: what can you be doing differently to get better results?
 
 The timing and spacing of these milestones likely varies dramatically based on your comfort level with interviewing and your current situation. For example, if you're out of practice with interviewing and you are comfortable in your current situation (e.g., at university or in a stable job) then perhaps you give yourself a couple months to complete each step. Conversely, if you have just been laid off unexpectedly and you need employment badly, you may want to perform each of these steps as soon as possible.
 

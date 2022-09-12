@@ -14,6 +14,10 @@ Everything in this handbook represents my own views and not the views of any of 
 
 This handbook is directed at both new and experienced software engineering candidates. It focuses on individual contributor (IC) engineering rather than engineering management. If you are interviewing for engineering management positions, there may be still be some beneficial sections of this guide; however, much of it may not be applicable.
 
+## Goals and non-goals
+
+There are a number of incredible existing resources that go in depth on different parts of the interview process. Rather than repeating the same content, this handbook intents to be more of a broard, easily-digestible resource. Where appropriate, I'll link to some of those other excellent resources.
+
 ## How to read this handbook
 
 This handbook isn't _too_ long, so my recommendation is to read it front-to-back at first. There are a lot of concepts that I believe will just "stick" once you read them. During your studies, I recommend you check back to certain sections of the handbook to refresh your memory.

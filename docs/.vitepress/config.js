@@ -1,6 +1,7 @@
 export default {
   title: "InterviewHandbook.dev",
   description: "An free handbook for software development interviews.",
+  cleanUrls: "without-subfolders",
   themeConfig: {
     socialLinks: [
       //   { icon: "twitter", link: "https://twitter.com/tbd" },
