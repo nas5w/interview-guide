@@ -1,4 +1,6 @@
-# Values Interviews
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/bulb.png" />
+
+<h1 style="text-align: center">Values Interviews</h1>
 
 - Similar to, but not to be confused with, behaviorals interviews
 - Often, these will be combined

@@ -1,4 +1,6 @@
-# Creating a Schedule
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/schedule.png" />
+
+<h1 style="text-align: center">Creating a Schedule</h1>
 
 Creating a schedule is the most important and most neglected part of the interview process. Without a plan, the job search and interview process is far too open-ended.
 

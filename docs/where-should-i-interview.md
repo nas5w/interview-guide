@@ -1,4 +1,6 @@
-# Where Should I Interview?
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/map.svg" />
+
+<h1 style="text-align: center">Where Should I Interview?</h1>
 
 ## It depends
 

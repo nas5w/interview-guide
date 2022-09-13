@@ -1,4 +1,6 @@
-# Preparing Mentally for the Interview Process
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/mental.png" />
+
+<h1 style="text-align: center">Preparing Mentally for the Interview Process</h1>
 
 ## You've got this!
 

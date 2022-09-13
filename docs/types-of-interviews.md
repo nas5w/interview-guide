@@ -1,4 +1,6 @@
-# Types of Interviews
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/types.png" />
+
+<h1 style="text-align: center">Types of Interviews</h1>
 
 This section contains the most common types of interviews you'll come across when finding a software engineering job. Each interview type will be discussed in much more detail in subsequent sections of this handbook.
 

@@ -1,4 +1,6 @@
-# Am I Ready to Start Interviewing?
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/ready.png" />
+
+<h1 style="text-align: center">Am I Ready to Start Interviewing?</h1>
 
 ## It's not a yes/no question
 

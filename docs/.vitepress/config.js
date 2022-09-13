@@ -3,6 +3,8 @@ export default {
   description: "An free handbook for software development interviews.",
   cleanUrls: "without-subfolders",
   themeConfig: {
+    logo: "/logo.png",
+    siteTitle: "InterviewHandbook",
     socialLinks: [
       //   { icon: "twitter", link: "https://twitter.com/tbd" },
       //   { icon: "github", link: "https://github.com/tbd/tbd" },
@@ -51,6 +53,7 @@ export default {
           },
           { text: "Resources", link: "/resources" },
           { text: "Feedback", link: "/feedback" },
+          { text: "Credits", link: "/credits" },
         ],
       },
     ],
