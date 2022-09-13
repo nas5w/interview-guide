@@ -19,6 +19,8 @@ export default {
       gtag('config', 'G-NDKV222HNH');
   `,
     ],
+    ["script", { src: "/star.js" }],
+    ["script", { src: "https://buttons.github.io/buttons.js" }],
   ],
   cleanUrls: "with-subfolders",
   themeConfig: {
