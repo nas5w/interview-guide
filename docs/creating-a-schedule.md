@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/schedule.png" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/schedule.svg" />
 
 <h1 style="text-align: center">Creating a Schedule</h1>
 

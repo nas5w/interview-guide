@@ -1,4 +1,6 @@
-# Interviewing Etiquette
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/dog.png" />
+
+<h1 style="text-align: center">Interviewing Etiquette</h1>
 
 - Shocked by how poorly many engineers comport themselves during interviews
 - Learn good interview etiquette and you will automatically have a leg up

@@ -1,4 +1,6 @@
-# Resources
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/resources.svg" />
+
+<h1 style="text-align: center">Resources</h1>
 
 ## Other guides/handbooks
 

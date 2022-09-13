@@ -1,4 +1,6 @@
-# Communication During the Interview
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/during.svg" />
+
+<h1 style="text-align: center">Communication During the Interview</h1>
 
 - Very, very, very important
 - They are trying to see what kind of colleague / employee you would be. How do you think they'd feel if:

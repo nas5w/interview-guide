@@ -1,4 +1,6 @@
-# Leetcode Interviews
+<img style="margin: 0 auto; max-width:5rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/leet.svg" />
+
+<h1 style="text-align: center">Leetcode Interviews</h1>
 
 - Most well-known, most feared interview type
 - While many big tech companies do leetcode, plenty of other companies do not. If you just really don't want to do leetcode, then don't do it. (hiring without whiteboards link?)

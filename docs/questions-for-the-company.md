@@ -1,4 +1,6 @@
-# Questions for the Company
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/questions.svg" />
+
+<h1 style="text-align: center">Questions for the Company</h1>
 
 - Hopefully every interviewer you speak with (or almost every one) will give you a chance to ask questions
 - This is a great opportunity to learn about the company and whether you would want to work there

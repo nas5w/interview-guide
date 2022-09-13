@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/intro.png" />
+<img style="margin: 0 auto; max-width:10rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/preface.svg" />
 
 <h1 style="text-align: center">Preface</h1>
 

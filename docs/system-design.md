@@ -1,4 +1,6 @@
-# System Design Interviews
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/system.svg" />
+
+<h1 style="text-align: center">System Design Interviews</h1>
 
 - One of the best barometers for more senior developers (often not included for more junior developers)
 - Typically given a poorly-defined problem and you have to work out a solution
