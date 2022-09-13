@@ -37,4 +37,4 @@ This handbook isn't _too_ long, so my recommendation is to read it front-to-back
 
 ## 🚧 Under construction!
 
-This handbook will always be a work in progress. Please give me some grace if you feel like I haven't covered a topic adequately or if you feel like my advice is wrong. I have a [page for feedback](./feedback) and would appreciate any feedback you have!
+This handbook will always be a work in progress. Please give me some grace if you feel like I haven't covered a topic adequately or if you feel like my advice is wrong. I have a [page for feedback](/) and would appreciate any feedback you have!
