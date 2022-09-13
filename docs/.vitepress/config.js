@@ -16,12 +16,11 @@ export default {
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-  
       gtag('config', 'G-NDKV222HNH');
   `,
     ],
   ],
-  cleanUrls: "without-subfolders",
+  cleanUrls: "with-subfolders",
   themeConfig: {
     logo: "/logo.png",
     siteTitle: "InterviewHandbook",
