@@ -1,6 +1,26 @@
 export default {
   title: "InterviewHandbook.dev",
   description: "An free handbook for software development interviews.",
+  head: [
+    [
+      "script",
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-NDKV222HNH",
+      },
+    ],
+    [
+      "script",
+      {},
+      `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+  
+      gtag('config', 'G-NDKV222HNH');
+  `,
+    ],
+  ],
   cleanUrls: "without-subfolders",
   themeConfig: {
     logo: "/logo.png",
