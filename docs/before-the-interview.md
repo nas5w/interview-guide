@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/before.svg" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person with a backpack on a hike" src="/before.svg" />
 
 <h1 style="text-align: center">Communication Before the Interview</h1>
 

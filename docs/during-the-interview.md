@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/during.svg" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Two people talking online" src="/during.svg" />
 
 <h1 style="text-align: center">Communication During the Interview</h1>
 

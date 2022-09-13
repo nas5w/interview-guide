@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/bulb.png" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Light bulb" src="/bulb.png" />
 
 <h1 style="text-align: center">Values Interviews</h1>
 

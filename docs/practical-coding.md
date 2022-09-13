@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/practical.svg" />
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man presenting something in front of a webpage" src="/practical.svg" />
 
 <h1 style="text-align: center">Practical Coding Interviews</h1>
 

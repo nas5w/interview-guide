@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/dog.png" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Smiling dog" src="/dog.png" />
 
 <h1 style="text-align: center">Interviewing Etiquette</h1>
 

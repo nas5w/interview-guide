@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/after.svg" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person leaning on large book holding a pencil" src="/after.svg" />
 
 <h1 style="text-align: center">Communication After the Interview</h1>
 

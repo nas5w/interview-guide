@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/types.png" />
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man overwhelmed by many tasks" src="/types.png" />
 
 <h1 style="text-align: center">Types of Interviews</h1>
 

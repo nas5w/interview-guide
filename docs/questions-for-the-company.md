@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/questions.svg" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Person asking questions" src="/questions.svg" />
 
 <h1 style="text-align: center">Questions for the Company</h1>
 

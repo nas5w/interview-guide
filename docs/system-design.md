@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/system.svg" />
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Person explaining complicated system" src="/system.svg" />
 
 <h1 style="text-align: center">System Design Interviews</h1>
 

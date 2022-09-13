@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:5rem; margin-bottom: 2rem" alt="filling head with knowledge" src="/leet.svg" />
+<img style="margin: 0 auto; max-width:5rem; margin-bottom: 2rem" alt="Man programming on laptop" src="/leet.svg" />
 
 <h1 style="text-align: center">Leetcode Interviews</h1>
 
