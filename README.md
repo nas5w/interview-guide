@@ -2,6 +2,8 @@
 
 A non-overwhelming list of resources I use for software development interview prep.
 
+Please star this repo and share with friends/colleagues if you find it helpful!
+
 ## Handbooks
 
 These handbooks aim to cover all aspects of tech interview prep.
