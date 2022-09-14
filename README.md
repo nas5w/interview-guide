@@ -11,6 +11,7 @@ These handbooks aim to cover all aspects of tech interview prep.
 | Tech Interview Handbook      | Detailed handbook covering many technical interview topics in depth.                | [Link](https://www.techinterviewhandbook.org/)     |
 | Front-end Interview Handbook | By the same author of the Tech Interview Handbook but aimed at front-end engineers. | [Link](https://www.frontendinterviewhandbook.com/) |
 
+
 ## Behavioral interviews
 
 Ace your behavioral interviews with these resources.
@@ -19,6 +20,7 @@ Ace your behavioral interviews with these resources.
 | ------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Jeff H. Sipe's YouTube channel        | A recruiter who spent 5 years a Google talks about recommended responses to behavioral questions. | [Link](https://www.youtube.com/c/JeffHSipe)                                   |
 | Top 30 behavioral interview questions | Behavioral questions from the Tech Interview Handbook to practice.                                | [Link](https://www.techinterviewhandbook.org/behavioral-interview-questions/) |
+
 
 ## Leetcode-style interviews
 
@@ -30,7 +32,8 @@ Tackle those pesky algorithm and coding challenges.
 | Neetcode                 | Practice the **Neetcode 150** and the **Blind 75** using this checklist.                                                                                      | [Link](https://neetcode.io/practice)                  |
 | Neetcode YouTube channel | Just phenomenal explanations of leetcode solutions. These are linked from within the Neetcode checklist mentioned above as well.                              | [Link](https://www.youtube.com/c/NeetCode)            |
 | Grind 75                 | The creator of the Blind 75 created a new list and a website that helps you plan your studies. I didn't use this resource during my search but it seems nice. | [Link](https://www.techinterviewhandbook.org/grind75) |
-| Big O Cheatsheet         | Time and space complexity of the most popular algorithms used in Leetcode challenges                                                                          | [Link](https://www.bigocheatsheet.com/)               |
+| Big O Cheatsheet         | Time and space complexity of the most popular algorithms used in Leetcode challenges                                           
+
 
 ## System design interviews
 
@@ -43,6 +46,7 @@ Crack the system design interview
 | The RADAD framework                          | A good framework for progressing through system design interviews from the Front-end Interview Handbook. | [Link](https://www.frontendinterviewhandbook.com/front-end-system-design/#radad-framework) |
 | 31 system design interview questions         | A good collection of system design interview questions to practice.                                      | [Link](https://igotanoffer.com/blogs/tech/system-design-interviews)                        |
 
+
 ## Technical knowledge interviews
 
 Good resources for brushing up on technical knowledge questions.
@@ -52,6 +56,7 @@ Good resources for brushing up on technical knowledge questions.
 | Front-end Developer Interview Questions on Github | A very comprehensive list of front-end developer technical knowledge questions. | [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)               |
 | Backend Developer Interview Questions on Github   | A list of backedn developer technical knowledge questions                       | [Link](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)      |
 | A Googler's front-end interview questions         | Questions one Googler mentions are his go-to for senior candidates.             | [Link](https://medium.com/codex/my-google-front-end-interview-questions-bca96925c16a) |
+
 
 ## Other useful resources
 
