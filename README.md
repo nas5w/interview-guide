@@ -1,6 +1,6 @@
 # Interview Resources
 
-A non-overwhelming list of resources I use for software development interview prep.
+I find big lists overwhelming. Here's a non-overwhelming list of resources I use for software development interview prep.
 
 Please star this repo and share with friends/colleagues if you find it helpful!
 
