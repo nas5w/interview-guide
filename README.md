@@ -54,7 +54,7 @@ Good resources for brushing up on technical knowledge questions.
 | Resource                                          | Description                                                                     | Link                                                                                  |
 | ------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Front-end Developer Interview Questions on Github | A very comprehensive list of front-end developer technical knowledge questions. | [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)               |
-| Backend Developer Interview Questions on Github   | A list of backedn developer technical knowledge questions                       | [Link](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)      |
+| Backend Developer Interview Questions on Github   | A list of backend developer technical knowledge questions                       | [Link](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)      |
 | A Googler's front-end interview questions         | Questions one Googler mentions are his go-to for senior candidates.             | [Link](https://medium.com/codex/my-google-front-end-interview-questions-bca96925c16a) |
 
 
@@ -67,3 +67,8 @@ Don't quite fit into a category but they're important!
 | Hiring Without Whiteboards on Github | Hate leetcode-style interviews? This is a list of companies that use other ways of assessing candidates.                                                                  | [Link](https://github.com/poteto/hiring-without-whiteboards) |
 | Glassdoor                            | Look up company reviews, see if people complain about work-life balance, investigate what a company's interview process looks like.                                       | [Link](https://glassdoor.com)                                |
 | Levels.fyi                           | Crowdsourced data on compensation for many tech companies. Use this to determine whether you should even apply to a company or if it likely won't meet your salary needs. | [Link](https://levels.fyi)                                   |
+
+
+# Contributing to this list
+
+I'm happy to discuss adding resources to this list, but one of my goals is to keep it lean. I find really large lists to be unapproachable. If you'd still like to recommend a resource, create an issue and I'll review it. Just a fair warning that I will be very discerning before adding things to the list!
