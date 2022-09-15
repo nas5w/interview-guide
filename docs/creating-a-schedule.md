@@ -8,12 +8,12 @@ Creating a schedule is the most important and most neglected part of the intervi
 
 I generally put together two schedules:
 
-- **A higher-level plan.** This is the overall timeline of when you plan to start applying, start interviewing, and land a job.
-- **A lower-level plan.** What will you be studying each week? When will you be studying? When will you be resting? Rest is _incredibly_ key or you'll burn out.
+- **A higher-level schedule.** This is the overall timeline of when you plan to start applying, start interviewing, and land a job. This schedule generally spans a few months (unless you urgently need employment).
+- **A lower-level schedule.** What will you be studying each week? When will you be studying? When will you be resting? This lower-level schedule generally spans a week or two.
 
 ## What if I miss my milestones?
 
-Schedules are a best guess but are by no means perfect. Let's say you plan to start applying in June and start interviewing in July. If you send out tons of applications in June but get no interview by July, then you've missed a milestone&mdash;and that's okay! You should do two things:
+Schedules are a best-guess and are not perfect, but they can help you course-correct. Let's say you plan to start applying in June and start interviewing in July. If you send out tons of applications in June but get no interview by July, then you've missed a milestone&mdash;and that's okay! You should do two things:
 
 - Figure out _why_ you missed your milestone
 - Adjust your milestones
@@ -22,7 +22,7 @@ If you didn't get a response all month, it's possible you need to adjust your r&
 
 ## Schedules vary greatly
 
-One of the least fair part about interviewing is the amount one person can prepare varies greatly from the amount another person can prepare. If you are younger and relatively unattached, you may have a lot of free time. If you have a spouse, children, and/or other obligations, it becomes a _lot_ harder. It ends up being that some people spend 4 hours a day studying and others can only fit 5 hours (or less) per week.
+One of the least fair part about interviewing is the amount one person can prepare varies greatly from the amount another person can prepare. If you are younger and relatively unattached, you may have a lot of free time. If you have a spouse, children, and/or other obligations, it becomes a _lot_ harder. Some people spend 4 hours a day prepping and others can only prep a few hours per week.
 
 ## Stick to the schedule
 
@@ -36,9 +36,9 @@ An example schedule that I have made for myself is below.
 
 My plan was to start studying in January, start applying in Feburary, start interviewing in March, and ideally accept a job by May.
 
-| JAN   | FEB         | MAR             | APR             | MAY                   |
-| ----- | ----------- | --------------- | --------------- | --------------------- |
-| Study | Study/Apply | Study/Interview | Study/Interview | Target Job Acceptance |
+| JAN   | FEB           | MAR                       | APR               | MAY                   |
+| ----- | ------------- | ------------------------- | ----------------- | --------------------- |
+| Study | Study + Apply | Study + Apply + Interview | Study + Interview | Target Job Acceptance |
 
 ### Low-level schedule
 

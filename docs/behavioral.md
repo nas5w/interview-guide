@@ -27,7 +27,7 @@ It's important to know which question you're being asked! Far too often people p
 
 > "Would you like me to provide an example from my work history or are you interested in how I would solve this problem in the future if it arose?"
 
-In the following sections, I'll tell you how to prepare for both of these types of interviews.
+In the following sections, I'll tell you how I prepare for both of these types of interviews.
 
 ## Preparing for past experience questions
 

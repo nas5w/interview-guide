@@ -12,7 +12,7 @@ Companies often ask you to devote several hours interviewing (and countless more
 
 ## You have to prepare mentally
 
-Given how time-intensive and stressful software development interviews can be, you absolutely have to prepare mentally for the process. In this section, I talk about a few things you can do to "weather the storm" during your interview process.
+Given how time-intensive and stressful software development interviews can be, it's a good idea to prepare mentally for the process. In this section, I talk about a few things you can do to "weather the storm" during your interview process.
 
 ## Set goals with dates
 
@@ -24,11 +24,11 @@ Far too often someone tells me they're preparing for software engineering interv
 
 Milestones #2 and #3 are more in your control than you might think. If you miss any of your planned dates, you should start _course correcting_: what can you be doing differently to get better results?
 
-The timing and spacing of these milestones likely varies dramatically based on your comfort level with interviewing and your current situation. For example, if you're out of practice with interviewing and you are comfortable in your current situation (e.g., at university or in a stable job) then perhaps you give yourself a couple months to complete each step. Conversely, if you have just been laid off unexpectedly and you need employment badly, you may want to perform each of these steps as soon as possible.
+The timing and spacing of these milestones likely varies dramatically based on your comfort level with interviewing and your current situation. For example, if you're out of practice with interviewing and you are comfortable in your current position (e.g., at university or in a stable job) then perhaps you give yourself a couple months to complete each step. Conversely, if you have just been laid off unexpectedly and you need employment badly, you may want to perform each of these steps as soon as possible.
 
 ## Time-box your prep sessions
 
-For some folks, thinking about interview prep can dominate your life if you're not careful! For others, it can be hard to just sit down and do it. In both cases, it's a great practice to _time-box_ your studies: perhaps it's an hour per night, maybe two. Or maybe an hour every other day. Regardless of the amount of time, I strongly suggest you document your plan and stick to it. When you're not in the time-box, enjoy life and try not to think too much about it. This deliberate time off will prevent burnout.
+For some folks, thinking about interview prep can dominate your life if you're not careful! For others, it can be hard to just sit down and do it. In both cases, it's a great practice to _time-box_ your studies: perhaps it's an hour per night, maybe two. Or maybe an hour every other day. Regardless of the amount of time, I strongly suggest you document your plan and stick to it. When you're not in the time-box, enjoy life and try not to think too much about it. This deliberate time off will help combat burnout.
 
 ## Make sure your family is on board
 

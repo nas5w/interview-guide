@@ -1,5 +1,5 @@
 export default {
-  title: "InterviewHandbook.dev",
+  title: "The Interview Guide",
   description: "An free handbook for software development interviews.",
   head: [
     [
@@ -24,10 +24,9 @@ export default {
   ],
   cleanUrls: "with-subfolders",
   themeConfig: {
-    logo: "/logo.png",
-    siteTitle: "InterviewHandbook",
+    siteTitle: "InterviewGuide.dev",
     socialLinks: [
-      //   { icon: "twitter", link: "https://twitter.com/tbd" },
+      { icon: "twitter", link: "https://twitter.com/nas5w" },
       //   { icon: "github", link: "https://github.com/tbd/tbd" },
     ],
     sidebar: [

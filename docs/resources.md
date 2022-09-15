@@ -25,12 +25,12 @@ Ace your behavioral interviews with these resources.
 Tackle those pesky algorithm and coding challenges.
 
 | Resource                 | Description                                                                                                                                                   | Link                                                  |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------- |
 | Leetcode                 | The site after which these interviews are named. In my opinion, this is where you should be doing the bulk of your practicing.                                | [Link](https://leetcode.com)                          |
 | Neetcode                 | Practice the **Neetcode 150** and the **Blind 75** using this checklist.                                                                                      | [Link](https://neetcode.io/practice)                  |
 | Neetcode YouTube channel | Just phenomenal explanations of leetcode solutions. These are linked from within the Neetcode checklist mentioned above as well.                              | [Link](https://www.youtube.com/c/NeetCode)            |
 | Grind 75                 | The creator of the Blind 75 created a new list and a website that helps you plan your studies. I didn't use this resource during my search but it seems nice. | [Link](https://www.techinterviewhandbook.org/grind75) |
-| Big O Cheatsheet         | Time and space complexity of the most popular algorithms used in Leetcode challenges                                                                          | [Link](https://www.bigocheatsheet.com/)               |
+| Big O Cheatsheet         | Time and space complexity of the most popular algorithms used in Leetcode challenges                                                                          | [Link](https://www.bigocheatsheet.com/)               | [Link](https://bigocheatsheet.com) |
 
 ## System design interviews
 

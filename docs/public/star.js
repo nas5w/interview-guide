@@ -3,6 +3,7 @@ const interval = setInterval(() => {
   if (!links) return;
   clearInterval(interval);
   links.innerHTML =
+    links.innerHTML +
     '<a class="github-button" href="https://github.com/buttons/github-buttons" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a>';
 
   const scr = document.createElement("script");
