@@ -4,7 +4,7 @@
 
 ## What are values interviews?
 
-Values interviews are similar, but not to be confused with, behavioral interviews. It's tempting to conflate the two, especially if they're being conducted in the same interview session.
+Values interviews are similar to, but not to be confused with, behavioral interviews. It's tempting to conflate the two, especially if they're being conducted in the same interview session.
 
 Many companies have core values that they list publicly. For example, Google has its [Ten things we know to be true](https://about.google/philosophy/). If a company at which you're interviewing has core values, you should expect to be evaluated against them. Therefore, it makes sense to prepare for them.
 
