@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Checklist with a check and three Xs" src="/ready.png" />
 
-<h1 style="text-align: center">Am I Ready to Start Interviewing?</h1>
+# Am I Ready to Start Interviewing?
 
 ## It's not a yes/no question
 

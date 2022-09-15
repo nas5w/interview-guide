@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Woman explaining something and asking a question" src="/knowledge.svg" />
 
-<h1 style="text-align: center">Technical Knowledge Interviews</h1>
+# Technical Knowledge Interviews
 
 - Otherwise known as "trivia" interviews
 - Some of these are good, some of these are bad.

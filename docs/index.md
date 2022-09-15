@@ -1,12 +1,14 @@
-<img style="margin: 0 auto; max-width:10rem; margin-bottom: 2rem" alt="Man at computer giving thumbs up" src="/preface.svg" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Person hiking wearing a backpack" src="/before.svg" />
 
-<h1 style="text-align: center">Preface</h1>
+# Preface
 
 ## Welcome to my interview guide!
 
-My name is Nick and I'm a senior software engineer at Microsoft. I have participated in dozens of software engineering interviews on both sides of the table&mdash;as a candidate and an interviewer. I have passed interviews at both big tech/FAANG companies as well as smaller startups.
+My name is Nick and I'm a senior software engineer at Microsoft. I have participated in around 100 software engineering interviews on both sides of the table&mdash;as a candidate and an interviewer. I have passed interviews at both big tech/FAANG companies as well as smaller startups.
 
-This guide is my attempt to codify my opinionated interview process for the benefit of the software development community. This resouce is, and will always be, free of charge.
+This guide is my attempt to codify my opinionated interview process for the benefit of the software development community.
+
+This resouce is, and will always be, free of charge. If you'd like to support this work, I would appreciate if you [star the repository on GitHub](https://github.com/nas5w/interview-guide) and [give me a follow on Twitter](https://twitter.com/nas5w/).
 
 ::: tip THESE ARE MY OWN VIEWS
 Everything in this guide represents my own views and not the views of any of my current or past employers.

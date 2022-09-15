@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person leaning on large book holding a pencil" src="/after.svg" />
 
-<h1 style="text-align: center">Communication After the Interview</h1>
+# Communication After the Interview
 
 - Send an email thanking the recruiter and saying you look forward to hearing back. Even if you don't think you did well (you'd be surprised!)
 - Gently follow-ups are good on a weekly basis unless the recruiter gave you a different timeline

@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man presenting something in front of a webpage" src="/practical.svg" />
 
-<h1 style="text-align: center">Practical Coding Interviews</h1>
+# Practical Coding Interviews
 
 - Probably my personal favorite
 - Build an app together (or something practical) with your interviewer

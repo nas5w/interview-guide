@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Smiling dog pointing left with nose" src="/dog.svg" />
 
-<h1 style="text-align: center">Behavioral Interviews</h1>
+# Behavioral Interviews
 
 ## What is a behavioral interview?
 

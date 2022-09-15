@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Person explaining complicated system" src="/system.svg" />
 
-<h1 style="text-align: center">System Design Interviews</h1>
+# System Design Interviews
 
 - One of the best barometers for more senior developers (often not included for more junior developers)
 - Typically given a poorly-defined problem and you have to work out a solution

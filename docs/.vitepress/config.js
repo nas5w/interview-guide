@@ -1,6 +1,6 @@
 export default {
-  title: "The Interview Guide",
-  description: "An free handbook for software development interviews.",
+  title: "InterviewGuide.dev",
+  description: "An free guide for software development interviews.",
   head: [
     [
       "script",
@@ -20,7 +20,7 @@ export default {
   `,
     ],
     ["script", { src: "/star.js" }],
-    ["script", { src: "https://buttons.github.io/buttons.js" }],
+    ["link", { rel: "stylesheet", href: "/custom.css" }],
   ],
   cleanUrls: "with-subfolders",
   themeConfig: {

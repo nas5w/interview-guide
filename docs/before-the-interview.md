@@ -1,6 +1,6 @@
 <img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person with a backpack on a hike" src="/before.svg" />
 
-<h1 style="text-align: center">Communication Before the Interview</h1>
+# Communication Before the Interview
 
 - Mostly with recruiters
 - With respect to interviews, recruiters are your friends. They want you to do well. (note they are not necessarily your friends when it comes to salary negotiation, but that's out of scope for this handbook)
