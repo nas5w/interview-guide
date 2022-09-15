@@ -16,7 +16,7 @@ You can only really prepare for values interviews when you know the companies to
 
 You will have likely done your behavioral interview prep already. I recommend reviewing your behavioral prep and tailoring your stories a bit to fit the company values. Don't lie, of course, but just make sure to explicitly mention the company's values.
 
-For example, one of my experiences involved improving tooling to enable a project to accomplish true continuous deployment. If I was applying to a company that had a value like "Fail faster and iterate," then I'd make sure to mention that in my continuous delivery story.
+For example, one of my experiences involved improving tooling to enable a project to accomplish true continuous deployment. If I was applying to a company that had a value like "Fail faster and iterate," then I'd make sure to mention that value _by name_ in my continuous delivery story.
 
 ### Write down or print out the company's core values
 
