@@ -127,6 +127,12 @@ Here are some hyopothetical questions I have heard asked over the years:
 5. What would you do if you realized your team was going to miss a deadline?
 6. A manager on a different team knows you're an excellent engineer and asks you for help but intentionally avoids speaking with your direct manager. What do you do?
 
+## Watch Jeff Sipe's videos
+
+I'm mentioning Jeff's videos again because they really were important to me. Once you have a matrix of all your experiences, Jeff will teach you how to present that experience in a way companies want to hear: with empathy and open-mindedness. He also provides a lot of good tips of recognizing what exactly companies are looking for when they ask specific types of questions.
+
+🎥 [Jeff Sipe's YouTube Channel](https://www.youtube.com/c/JeffHSipe)
+
 ## Out of our comfort zone
 
-Behavioral questions, especially those that deal with interpersonal relationships, can be very much out of an engineer's comfort zone. It's tough&mdash;on one hand we're being asked to reverse a linked list and on another hand we're being asked to troubleshoot behavioral problems. Whether you think this is appropriate or fair, make sure you prep for this style of intervies!
+Behavioral questions, especially those that deal with interpersonal relationships, can be very much out of an engineer's comfort zone. It's tough&mdash;on one hand we're being asked to reverse a linked list and on another hand we're being asked to troubleshoot behavioral problems. Because the behavioral part is tough for a lot of folks, this can be an area for you to really shine if you prep thoroughly!
