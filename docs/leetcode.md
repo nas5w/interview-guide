@@ -75,6 +75,12 @@ It's going to feel strange at first, but it's really good practice to describe w
 
 Use [Glassdoor](https://glassdoor.com) to look at a company's interview page. Often, people will write about the kinds of questions they're asked. You may find they focus on a specific category of Leetcode problem (or maybe they don't even ask Leetcode-style questions).
 
+### Use whatever language you're know best
+
+There are a lot of takes on what the best language is for Leetcoding (hint: it's Python). But the truth is you should just use whatever language you're most comfortable with. I have had a front-end focus most of my career, so I used JavaScript. If you have no best language, then use Python (it's terse, readable, and has some nice built-in data structures).
+
+It's unlikely a company will require you to use a certain language, but I _have_ heard of it happening. Make sure to check in with your recruiter to verify you can use your chosen language!
+
 ## How much Leetcode practicing is enough?
 
 This is a very hard question to answer! I did somewhere around 220 total questions last time around and had a lot of success during my interviews. That being said, some people do well practicing less and some people don't do well practicing more.
