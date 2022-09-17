@@ -32,19 +32,21 @@ There are a number of incredible existing resources that I believe tend to be to
 
 **Goals:**
 
-- Opinionated
-- Digestible, easy to read
-- Actionable
+- Be opinionated and actionable
+- Be easy to read
 - Focus on methodology
 
 **Non-goals:**
 
 - List every resource under the sun
-- Depth and bredth of information that exists in other resources
+- Contain the depth and bredth of information that exists in other excellent resources
+- Address adjacent topics like how to get an interview or how to negotiate salary
 
 ## How to read this guide
 
-This guide isn't _too_ long, so my recommendation is to read it front-to-back at first. There are a lot of concepts that I believe will just "stick" once you read them. During your studies, I recommend you check back to certain sections to refresh your memory.
+This guide isn't _too_ long, so my recommendation is to read it front-to-back at first. Since it's intentionally opinionated, you may find that my approach won't work for you, and that's totally okay.
+
+There are a lot of concepts that I believe will just "stick" once you read them the first time through. During your prep, I recommend you check back to relevant sections as appropriate to refresh your memory.
 
 ## 🚧 Under construction!
 
