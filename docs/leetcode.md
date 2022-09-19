@@ -12,7 +12,7 @@ While many companies (especially big tech companies) conduct Leetcode-style inte
 
 It's common to panic and think "I must find the optimal solution" when facing a Leetcode-style problem. In my experience, this isn't the case. I had one FAANG interview where I think I provided the optimal solution for maybe one out of the four Leetcode-style problems but _still_ got the job offer.
 
-While it's impossible to generalize this _too_ much (companies vary), you're usually assess on the following topics:
+While it's impossible to generalize this _too_ much (companies vary), you're usually assessed on the following topics:
 
 - **Coding ability.** Do you have a good grasp of control flow and logic? Can you write code relatively quickly and is it well-formated? Do you name variables logically?
 - **Algorithms/data structures.** Do you use algorithms and data structures appropriately? How optimal was the space and time complexity of your solution? Did you correctly assess the space and time complexity?
