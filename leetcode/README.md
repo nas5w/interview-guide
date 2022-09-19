@@ -73,7 +73,7 @@ It's going to feel strange at first, but it's really good practice to describe w
 
 Use [Glassdoor](https://glassdoor.com) to look at a company's interview page. Often, people will write about the kinds of questions they're asked. You may find they focus on a specific category of Leetcode problem (or maybe they don't even ask Leetcode-style questions).
 
-### Use whatever language you're know best
+### Use whatever language you know best
 
 There are a lot of takes on what the best language is for Leetcoding (hint: it's Python). But the truth is you should just use whatever language you're most comfortable with. I have had a front-end focus most of my career, so I used JavaScript. If you have no best language, then use Python (it's terse, readable, and has some nice built-in data structures).
 
