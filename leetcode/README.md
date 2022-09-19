@@ -1,5 +1,7 @@
 # Leetcode-Style Interviews
 
+Note: If you enjoy this write-up, please star the repo and/or share with colleagues. I'll be writing my advice on other types of interviews (e.g., behavioral, practical coding, tech knowledge, and system design) in this repo as well!
+
 ## What are Leetcode-style interviews?
 
 Leetcode-style interviews are probably the most infamous type of software development interview out there. In these interviews, you're given an algorithm/data structure challenge that you have to solve either on a whiteboard or computer. The interviewer is judging your coding, critical thinking, communication, and problem solving skills. Often, you're expected to communicate decisions and tradeoffs you're making and discuss the time and space complexity of your solution.
