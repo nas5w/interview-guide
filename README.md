@@ -1,5 +1,12 @@
 # Interview Resources
 
+This repo was initially home to the just the "external resources" listed below, but has since grown a bit as I'm starting to include some opinionated advice for approaching software development interview prep as well. So far, I have written the following:
+
+- [Leetcode-style interviews](./leetcode)
+- Other interview types coming soon!
+
+# External Resources
+
 I find big lists overwhelming. Here's a non-overwhelming list of resources I use for software development interview prep.
 
 Please star this repo and share with friends/colleagues if you find it helpful!
