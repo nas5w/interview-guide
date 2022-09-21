@@ -3,6 +3,7 @@
 This repo was initially home to the just the "external resources" listed below, but has since grown a bit as I'm starting to include some opinionated advice for approaching software development interview prep as well. So far, I have written the following:
 
 - [Leetcode-style interviews](./leetcode)
+- [Behavioral interviews](./behavioral)
 - Other interview types coming soon!
 
 # External Resources
