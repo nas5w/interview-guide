@@ -1,5 +1,6 @@
 # Submit Feedback
 
-If you'd like to submit feedback, please send it my way using the following Google Form. Thank you!
+This guide is always a work in progress! I'd appreciate any input you have to make it better. The best ways to send me feedback are:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddgFRLOq8U-nSvbPOzvFFxj9YfGpGFlaMhYtOHV58SH5CJMA/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+1. [Submit an issue on Github](https://github.com/nas5w/interview-resources/issues)
+2. [Send me a DM on Twitter](https://twitter.com/nas5w) if you have less formal feedback or want to have a private conversation
