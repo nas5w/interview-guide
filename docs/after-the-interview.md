@@ -23,10 +23,12 @@ There are a few potential outcomes I have seen at this point:
 
 ## Handling offers
 
-- Congratulations! This topic is a bit out of scope for this handbook. Try to have multiple offers at the same time for negotiating power. If possible, try to find out how well you did in the interviews. Some recruiters will tell you that you really knocked the interview out of the park, meaning they want you and you can negotiate more.
+Congratulations!
+
+Negotiating is out of scope for this handbook. I will say that you will put yourself in the best position if you have multiple offers since that gives you negotiating power. If possible, try to find out how well you did in the interviews. Some recruiters will tell you that you really knocked the interview out of the park, meaning the company wants you and you can probably negotiate more.
 
 ## Handling not being selected
 
-- Handling rejections
-  - Typically rejections are form emails, in my experience
-  - Ask if you can have feedback. Many companies will not give you feedback. That's okay. If they will give you feedback, take it! An incredible opportunity to do better in the future.
+Feeling rejected stinks. It's important to remember that it's not the rejections that count: if you have 10 rejections and one offer, then you win!
+
+When you do hear from a recruiter that you haven't been selected, see if they're willing to give you specific feedback from your interview sessions. It's an incredible opportunity to learn and improve. That being said, many companies won't give you any feedback. But it's worth a shot!
