@@ -4,7 +4,7 @@
 
 ## Other guides/handbooks
 
-I'm not the first person to come up with a handbook for tech interviews! Check out these other awesome resources.
+Check out these other awesome handbooks loaded with advice on tech interviewing.
 
 | Resource                     | Description                                                                         | Link                                               |
 | ---------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
