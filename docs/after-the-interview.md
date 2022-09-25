@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person leaning on large book holding a pencil" src="/after.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208px" height="208px" alt="Person leaning on large book holding a pencil" src="/after.svg" />
 
 # Communication After the Interview
 

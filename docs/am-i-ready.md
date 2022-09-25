@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Checklist with a check and three Xs" src="/ready.png" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Checklist with a check and three Xs" width="240px" height="187px" src="/ready.png" />
 
 # Am I Ready to Start Interviewing?
 

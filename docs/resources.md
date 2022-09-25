@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person grabbing file" src="/resources.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208px" height="208px" alt="Person grabbing file" src="/resources.svg" />
 
 # Resources
 

@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; ma-width:15rem; margin-bottom: 2rem" alt="Person asking questions" src="/questions.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208px" height="208px" alt="Person asking questions" src="/questions.svg" />
 
 # Questions for the Company
 
@@ -26,4 +26,4 @@ Questions to ask can range from general, process-related questions to more domai
 I aim to leave the "questions for the interviewer" part of the interview with two outcomes:
 
 - The interviewer thinks "wow, this candidate is really interested in this job" and
-- I have enough information to actually make that determination.
+  -x I have enough information to actually make that determination.

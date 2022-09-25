@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Map with X marked on it" src="/map.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" alt="Map with X marked on it" width="208px" height="250px" src="/map.svg" />
 
 # Where Should I Interview?
 

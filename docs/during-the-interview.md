@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Two people talking online" src="/during.svg" />
+<img style="margin: 0 auto; max-width:18rem; margin-bottom: 2rem" width="288px" height="199px" alt="Two people talking online" src="/during.svg" />
 
 # Communication During the Interview
 

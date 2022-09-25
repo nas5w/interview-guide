@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:5rem; margin-bottom: 2rem" alt="Man programming on laptop" src="/leet.svg" />
+<img style="margin: 0 auto; max-width:5.3rem; margin-bottom: 2rem" width="85px" height="204px" alt="Man programming on laptop" src="/leet.svg" />
 
 # Leetcode-Style Interviews
 

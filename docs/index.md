@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Person hiking wearing a backpack" src="/before.svg" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Person hiking wearing a backpack" width="200px" height="164px" src="/before.svg" />
 
 # Preface
 

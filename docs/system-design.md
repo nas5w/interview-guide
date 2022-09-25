@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Person explaining complicated system" src="/system.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208px" height="208px" alt="Person explaining complicated system" src="/system.svg" />
 
 # System Design Interviews
 

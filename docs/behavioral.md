@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Smiling dog pointing left with nose" src="/dog.svg" />
+<img style="margin: 0 auto; max-width:14rem; margin-bottom: 2rem" alt="Smiling dog pointing left with nose" width="224px" height="201px" src="/dog.svg" />
 
 # Behavioral Interviews
 

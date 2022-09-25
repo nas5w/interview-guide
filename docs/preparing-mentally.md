@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Woman meditating" src="/mental.png" />
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" width="260px" height="189px"  alt="Woman meditating" src="/mental.png" />
 
 # Preparing Mentally for the Interview Process
 

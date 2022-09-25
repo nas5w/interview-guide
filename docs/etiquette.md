@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Smiling dog" src="/dog.png" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" width="272px" height="204px" alt="Smiling dog" src="/dog.png" />
 
 # Interviewing Etiquette
 

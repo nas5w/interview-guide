@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" alt="Light bulb" src="/bulb.png" />
+<img style="margin: 0 auto; max-width:16rem; margin-bottom: 2rem" width="256px" height="200px" alt="Light bulb" src="/bulb.png" />
 
 # Values Interviews
 

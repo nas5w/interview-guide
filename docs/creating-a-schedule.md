@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Woman putting task on a schedule" src="/schedule.svg" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Woman putting task on a schedule" width="272px" height="263px" src="/schedule.svg" />
 
 # Creating a Schedule
 

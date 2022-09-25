@@ -1,4 +1,4 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man overwhelmed by many tasks" src="/types.png" />
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man overwhelmed by many tasks" width="320px" height="221px" src="/types.png" />
 
 # Types of Interviews
 
