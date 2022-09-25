@@ -16,11 +16,11 @@ Everything in this guide represents my own views and not the views of any of my 
 
 This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you did any of the following:
 
-| Action                        | Button                                                                                                                                                                                                  |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Star the repository on Github | <a class="github-button" href="https://github.com/nas5w/ interview-guide" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star nas5w/ interview-guide on GitHub">Star</a> |
-| Follow me on Github           | <a class="github-button" href="https://github.com/nas5w" data-size="large" data-show-count="true" aria-label="Follow @nas5w on GitHub">Follow @nas5w</a>                                                |
-| Follow me on Twitter          | <a class="twitter-follow-button" href="https://twitter.com/nas5w" data-size="large" data-show-count="true">Follow @nas5w</a>                                                                            |
+| Action                        | Button                                                                                                                                                                                                |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Star the repository on Github | <a class="github-button" href="https://github.com/nas5w/interview-guide" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star nas5w/interview-guide on GitHub">Star</a> |
+| Follow me on Github           | <a class="github-button" href="https://github.com/nas5w" data-size="large" data-show-count="true" aria-label="Follow @nas5w on GitHub">Follow @nas5w</a>                                              |
+| Follow me on Twitter          | <a class="twitter-follow-button" href="https://twitter.com/nas5w" data-size="large" data-show-count="true">Follow @nas5w</a>                                                                          |
 
 ## Target audience
 
