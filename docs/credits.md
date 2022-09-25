@@ -12,3 +12,7 @@ Yangshun Tay wrote the Tech Interview Handbook, the Frontend Interview Handbook,
 ## DrawKit
 
 All of the chapter images throughout this guide came from DrawKit. Check them out for awesome illustrations! https://drawkit.com/
+
+## Vitepress
+
+This guide was authored using [Vitepress](https://vitepress.vuejs.org/). It was an amazing experience that let me focus on the writing process. Give it a try!
