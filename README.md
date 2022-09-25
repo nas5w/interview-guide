@@ -6,6 +6,10 @@ My name is Nick and I'm a senior software engineer at Microsoft. I have particip
 
 This guide is my attempt to codify my opinionated interview process for the benefit of the software development community.
 
+## Support this guide
+
+If you'd like to support this guide, all I ask is that you (1) ⭐️ star the repo and (2) share it with anyone who might be interested.
+
 ## View the guide
 
 To view the guide online, navigate to [https://interviewguide.dev](https://interviewguide.dev).
