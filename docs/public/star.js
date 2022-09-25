@@ -5,10 +5,10 @@ const interval = setInterval(() => {
 
   const link = document.createElement("a");
   link.classList.add("github-button");
-  link.setAttribute("href", "https://github.com/nas5w/interview-resources");
+  link.setAttribute("href", "https://github.com/nas5w/ interview-guide");
   link.dataset.icon = "octicon-star";
   link.setAttribute("data-show-count", "true");
-  link.setAttribute("aria-label", "Star nas5w/interview-resources on Github");
+  link.setAttribute("aria-label", "Star nas5w/ interview-guide on Github");
   link.innerHTML = "Star";
 
   links.appendChild(link);
