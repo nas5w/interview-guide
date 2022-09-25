@@ -30,9 +30,11 @@ My first suggestion is to purchase a [Leetcode](https://leetcode.com) premium me
 - Official Leetcode-provided solutions
 - Company tags for questions, sortable by frequency
 
-But Leetcode is a huge site with thousands of questions. So where to begin? Enter _Neetcode_.
+**Note:** If $35/month will put you in a bad position financially, don't buy it! You can find the same information for free, but it just takes a bit more time to seek it out. For example, there are some good solutions to various problems on YouTube. Additionally, you can find company-specific questions in the Leetcode forums.
 
 ### Using the NeetCode 150
+
+Leetcode is a huge site with thousands of questions. So where to begin? Enter _Neetcode_.
 
 [NeetCode](https://neetcode.io) really saved my bacon when it comes to Leetcode-style interviews. NeetCode provides a list of 150 curated, categorized problems to practice. In addition to curating a list of problems, the author has created _excellent_ video solutions for each problem.
 
