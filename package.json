@@ -5,10 +5,12 @@
   "license": "MIT",
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "vitepress build docs && node ./scripts/build-sitemap.js",
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "fast-glob": "^3.2.12",
+    "sitemap": "^7.1.1",
     "vitepress": "^1.0.0-alpha.13",
     "vue": "^3.2.39"
   }
