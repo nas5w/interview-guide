@@ -34,7 +34,7 @@ But Leetcode is a huge site with thousands of questions. So where to begin? Ente
 
 ### Using the NeetCode 150
 
-[NeetcÇode](https://neetcode.io) really saved my bacon when it comes to Leetcode-style interviews. NeetCode provides a list of 150 curated, categorized problems to practice. In addition to curating a list of problems, the author has created _excellent_ video solutions for each problem.
+[NeetCode](https://neetcode.io) really saved my bacon when it comes to Leetcode-style interviews. NeetCode provides a list of 150 curated, categorized problems to practice. In addition to curating a list of problems, the author has created _excellent_ video solutions for each problem.
 
 The following screenshot shows the NeetCode user interface.
 
