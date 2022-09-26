@@ -26,7 +26,7 @@ export default {
     siteTitle: "InterviewGuide.dev",
     socialLinks: [
       { icon: "twitter", link: "https://twitter.com/nas5w" },
-      //   { icon: "github", link: "https://github.com/tbd/tbd" },
+      { icon: "github", link: "https://github.com/nas5w/interview-guide" },
     ],
     sidebar: [
       {
