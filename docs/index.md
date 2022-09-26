@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Person hiking wearing a backpack" width="200px" height="164px" src="/before.svg" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Person hiking wearing a backpack" width="200" height="164" src="/before.svg" />
 
 # Preface
+
+<star />
 
 ## Welcome to my interview guide!
 
@@ -14,13 +16,15 @@ Everything in this guide represents my own views and not the views of any of my 
 
 ## Supporting this guide
 
-This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you did any of the following:
+This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github or gave me a follow on Twitter:
 
-| Action                        | Button                                                                                                                                                                                                |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Star the repository on Github | <a class="github-button" href="https://github.com/nas5w/interview-guide" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star nas5w/interview-guide on GitHub">Star</a> |
-| Follow me on Github           | <a class="github-button" href="https://github.com/nas5w" data-size="large" data-show-count="true" aria-label="Follow @nas5w on GitHub">Follow @nas5w</a>                                              |
-| Follow me on Twitter          | <a class="twitter-follow-button" href="https://twitter.com/nas5w" data-size="large" data-show-count="true">Follow @nas5w</a>                                                                          |
+<div style="display: flex; gap: 2rem; justify-content: center">
+
+<star />
+
+<follow />
+
+</div>
 
 ## Target audience
 

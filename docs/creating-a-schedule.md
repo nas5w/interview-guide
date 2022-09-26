@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Woman putting task on a schedule" width="272px" height="263px" src="/schedule.svg" />
+<img style="margin: 0 auto; max-width:17rem; margin-bottom: 2rem" alt="Woman putting task on a schedule" width="272" height="263" src="/schedule.svg" />
 
 # Creating a Schedule
+
+<star />
 
 Creating a schedule is the most important and most neglected part of the interview process. Without a plan, the job search and interview process is far too open-ended.
 

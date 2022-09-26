@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208px" height="208px" alt="Man presenting something in front of a webpage" src="/practical.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208" height="208" alt="Man presenting something in front of a webpage" src="/practical.svg" />
 
 # Practical Coding Interviews
+
+<star />
 
 ## What are practical coding interviews?
 

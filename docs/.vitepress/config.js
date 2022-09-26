@@ -19,7 +19,6 @@ export default {
       gtag('config', 'G-NDKV222HNH');
   `,
     ],
-    ["script", { src: "/star.js" }],
     ["link", { rel: "stylesheet", href: "/custom.css" }],
   ],
   cleanUrls: "with-subfolders",

@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208px" height="208px" alt="Woman explaining something and asking a question" src="/knowledge.svg" />
+<img style="margin: 0 auto; max-width:13rem; margin-bottom: 2rem" width="208" height="208" alt="Woman explaining something and asking a question" src="/knowledge.svg" />
 
 # Technical Knowledge Interviews
+
+<star />
 
 ## What are technical knowledge interviews?
 

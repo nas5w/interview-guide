@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man overwhelmed by many tasks" width="320px" height="221px" src="/types.png" />
+<img style="margin: 0 auto; max-width:20rem; margin-bottom: 2rem" alt="Man overwhelmed by many tasks" width="320" height="221" src="/types.png" />
 
 # Types of Interviews
+
+<star />
 
 This section contains the most common types of interviews you'll come across when finding a software engineering job. Each interview type will be discussed in much more detail in subsequent sections of this handbook.
 

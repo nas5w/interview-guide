@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:14rem; margin-bottom: 2rem" alt="Smiling dog pointing left with nose" width="224px" height="201px" src="/dog.svg" />
+<img style="margin: 0 auto; max-width:14rem; margin-bottom: 2rem" alt="Smiling dog pointing left with nose" width="224" height="201" src="/dog.svg" />
 
 # Behavioral Interviews
+
+<star />
 
 ## What is a behavioral interview?
 

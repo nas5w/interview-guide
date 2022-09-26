@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Checklist with a check and three Xs" width="240px" height="187px" src="/ready.png" />
+<img style="margin: 0 auto; max-width:15rem; margin-bottom: 2rem" alt="Checklist with a check and three Xs" width="240" height="187" src="/ready.png" />
 
 # Am I Ready to Start Interviewing?
+
+<star />
 
 ## It's not a yes/no question
 

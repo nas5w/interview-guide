@@ -1,6 +1,8 @@
-<img style="margin: 0 auto; max-width:16rem; margin-bottom: 2rem" width="256px" height="210px" alt="Person with a backpack on a hike" src="/before.svg" />
+<img style="margin: 0 auto; max-width:16rem; margin-bottom: 2rem" width="256" height="210" alt="Person with a backpack on a hike" src="/before.svg" />
 
 # Communication Before the Interview
+
+<star />
 
 ## Recruiters are your friends
 
