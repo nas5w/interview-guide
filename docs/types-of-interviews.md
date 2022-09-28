@@ -13,7 +13,7 @@ Behavioral questions attempt to gauge how you would behave in stressful or other
 - **"Tell me about a time..."** These questions are based on the idea that the best predictor of future behavior is past performance. The goal is to get you to present real examples of how you have handled things like conflict and failure in the past so the company can have some insight into how you may behave in the future.
 - **Scenarios.** Rather than looking for past examples, scenario question present you with situations and you're asked how you would handle them. Interviewers are generally looking for problem solving and empathy skills when asking these questions.
 
-Studing for behavioral interviews is incredibly important! Almost any interview you do will have a behavioral component.
+Studying for behavioral interviews is incredibly important! Almost any interview you do will have a behavioral component.
 
 ::: info BEHAVIORAL INTERVIEW EXAMPLE QUESTION
 Tell me about a time you had a conflict with a team member and how you handled it?
