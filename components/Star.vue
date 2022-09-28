@@ -9,11 +9,13 @@
     <h3 style="margin: 0 0 1rem 0" v-if="expanded">Support this resource</h3>
 
     <p v-if="expanded">
-      If you're enjoying this guide, please support it be giving it a "star" on
-      GitHub. This will help it grow and will help others find it!
+      If you're enjoying this guide, please support it be
+      <a href="https://github.com/nas5w/interview-guide"
+        >giving it a "star" on GitHub</a
+      >. This will help it grow and will help others find it!
     </p>
 
-    <div style="text-align: center; margin-top: 2rem">
+    <div v-if="!expanded" style="text-align: center; margin-top: 2rem">
       <a
         class="github-button"
         href="https://github.com/nas5w/interview-guide"
