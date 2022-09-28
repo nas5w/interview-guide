@@ -34,3 +34,5 @@ Negotiating is out of scope for this handbook. I will say that you will put your
 Feeling rejected stinks. It's important to remember that it's not the rejections that count: if you have 10 rejections and one offer, then you win!
 
 When you do hear from a recruiter that you haven't been selected, see if they're willing to give you specific feedback from your interview sessions. It's an incredible opportunity to learn and improve. That being said, many companies won't give you any feedback. But it's worth a shot!
+
+<star expanded="true" />

@@ -64,3 +64,5 @@ Don't quite fit into a category but they're important!
 | Hiring Without Whiteboards on Github | Hate leetcode-style interviews? This is a list of companies that use other ways of assessing candidates.                                                                  | [Link](https://github.com/poteto/hiring-without-whiteboards) |
 | Glassdoor                            | Look up company reviews, see if people complain about work-life balance, investigate what a company's interview process looks like.                                       | [Link](https://glassdoor.com)                                |
 | Levels.fyi                           | Crowdsourced data on compensation for many tech companies. Use this to determine whether you should even apply to a company or if it likely won't meet your salary needs. | [Link](https://levels.fyi)                                   |
+
+<star expanded="true" />
