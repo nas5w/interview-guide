@@ -43,7 +43,7 @@ There are a number of incredible existing resources that I believe tend to be to
 **Non-goals:**
 
 - List every resource under the sun
-- Contain the depth and bredth of information that exists in other excellent resources
+- Contain the depth and breadth of information that exists in other excellent resources
 - Address adjacent topics like how to get an interview or how to negotiate salary
 
 ## How to read this guide
