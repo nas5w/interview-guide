@@ -12,7 +12,7 @@
       If you're enjoying this guide, please support it be
       <a href="https://github.com/nas5w/interview-guide"
         >giving it a "star" on GitHub</a
-      >. This will help you find it later and will help others find it!
+      >. I would really appreciate it!
     </p>
 
     <div v-if="!expanded" style="text-align: center; margin-top: 2rem">
