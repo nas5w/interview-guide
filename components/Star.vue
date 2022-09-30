@@ -6,13 +6,13 @@
     }"
     :class="{ tip: expanded, 'custom-block': expanded }"
   >
-    <h3 style="margin: 0 0 1rem 0" v-if="expanded">Support this resource</h3>
+    <h3 style="margin: 0 0 1rem 0" v-if="expanded">Help this guide grow</h3>
 
     <p v-if="expanded">
       If you're enjoying this guide, please support it be
       <a href="https://github.com/nas5w/interview-guide"
         >giving it a "star" on GitHub</a
-      >. This will help it grow and will help others find it!
+      >. This will help you find it later and will help others find it!
     </p>
 
     <div v-if="!expanded" style="text-align: center; margin-top: 2rem">
