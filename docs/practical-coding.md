@@ -12,7 +12,7 @@ Practical coding interviews are my favorite types of technical assessments becau
 
 I have generally seen two types of practical coding interviews:
 
-- **Pair-programming.** Usually you're writing the code and screensharing (or projecting your screen if in person). It's up to the comapny/interviewer how much they will participate in the exercise.
+- **Pair-programming.** Usually you're writing the code and screensharing (or projecting your screen if in person). It's up to the company/interviewer how much they will participate in the exercise.
 - **Take-home tests**. You're given an assignment to complete on your own at home without someone looking over your shoulder.
 
 ## How to prepare for practical coding interviews
