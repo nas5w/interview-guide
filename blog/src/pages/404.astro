@@ -1,0 +1,33 @@
+---
+import BaseHead from '../components/Head/BaseHead.astro';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer/Footer.astro'
+
+let title = 'How To Code';
+let description = '';
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
+
+  <body class="bg-white text-black font-body leading-normal personality-casual">
+    <Nav />
+
+    <main class="py-12 lg:py-20">
+      <article class="max-w-6xl mx-auto px-3">
+        <header class="mx-auto max-w-3xl text-center content">
+          <h1 class="mb-4">You're up 404 creek</h1>
+          <p>Not much to see here but the intro to Dawson's Creek. Don't wait for your life to be over. There are other pages.
+            Go find one!</p>
+          <div class="embed-responsive aspect-ratio-4/3">
+            <iframe width="700" height="500" class="embed-responsive-item" src="https://www.youtube.com/embed/izpNuTxGIrM"
+              frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
+          </div>
+        </header>
+      </article>
+    </main>
+    <Footer />
+  </body>
+</html>

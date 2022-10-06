@@ -1,0 +1,35 @@
+---
+import EmailSignup from './Subscribe/EmailSignup.astro'
+
+export interface Props {
+  title: string;
+  date: string;
+  hero: string;
+  youtube: string;
+}
+
+const { title, date, hero, youtube } = Astro.props;
+---
+
+<article class="max-w-5xl mx-auto px-3">
+  <header class="mx-auto max-w-3xl text-center content">
+    <h1>{title}</h1>
+  </header>
+
+  <!-- Image -->
+  {hero && <img class="rounded-xl mx-auto" style="min-width: 80%;" loading="lazy" src={hero} alt={title} />}
+
+  <!-- YouTube Video -->
+  {youtube && <div class="embed-responsive aspect-ratio-16/9 mt-6 lg:mt-12">
+    <iframe width="700" height="500" class="embed-responsive-item"
+      src={`https://www.youtube.com/embed/${youtube}`} frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
+  </div>}
+
+  <!-- Content -->
+  <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
+    <slot />
+  </section>
+
+  <EmailSignup />
+</article>
