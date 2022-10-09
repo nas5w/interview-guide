@@ -40,7 +40,7 @@ In the next section, we'll talk about combining milestones and time-boxing into 
 
 The last piece of mental prep I can suggest is a big one: reframe how you think about failure. One of the biggest reasons people avoid technical interviews is fear of failure.
 
-I suggest approaching technical interviews how a baseball player approaches an at-bat. If you're unfamiliar with baseball, it's _really good_ if a baseball player gets on base one third of the time. That means 67% of the time, the baseball player doesn't make it&mdash;they "fail." But this doesn't make them a bad baseball player, it's just hard to get on base.
+I suggest approaching technical interviews how a baseball player approaches an at-bat. If you're unfamiliar with baseball, it's _really good_ if a baseball player gets on base one one third of the time. That means 67% of the time, the baseball player doesn't make it&mdash;they "fail." But this doesn't make them a bad baseball player, it's just hard to get on base.
 
 That's how software engineering interviews are. They're not easy and you often don't get the job&mdash;but that's totally okay. I personally have had a bunch of interviews where I performed poorly. Some where I just sat there and had no idea how to answer the question. None of that mattered though because each time I _eventually_ got a great job, and that's all that matters.
 
