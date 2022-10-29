@@ -1,0 +1,115 @@
+<!DOCTYPE html><html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-87340191-1"></script>
+
+
+<!-- Global Metadata -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link rel="sitemap" href="/sitemap.xml">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+
+<!-- Primary Meta Tags -->
+<title>How to compare dates in JavaScript</title>
+<meta name="title" content="How to compare dates in JavaScript">
+<meta name="description" content="How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://howtocode.io">
+<meta property="og:title" content="How to compare dates in JavaScript">
+<meta property="og:description" content="How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries.">
+<meta property="og:image" content="/images/social.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://howtocode.io">
+<meta property="twitter:title" content="How to compare dates in JavaScript">
+<meta property="twitter:description" content="How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries.">
+<meta property="twitter:image" content="/images/social.jpg">
+
+<!-- Prism CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-tomorrow.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/toolbar/prism-toolbar.min.css">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@900&family=Poppins:ital,wght@0,400;0,600;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/blog/assets/a634c526.2696c97b.css" /><script type="module" src="/blog/hoisted.825a8ba2.js"></script></head>
+
+  <body>
+    <nav>
+  <div class="max-w-5xl mx-auto px-3 py-3 flex items-center justify-between h-16">
+    <a href="/" class="font-bold text-xl hover:text-hot-pink">Creek</a>
+    <a href="/search" class="">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+    </a>
+  </div>
+  <div class="w-full border-b-2 border-black squiggle"></div>
+</nav>
+    <main class="py-12 lg:py-20">
+      <article class="max-w-5xl mx-auto px-3">
+  <header class="mx-auto max-w-3xl text-center content">
+    <h1>How to compare dates in JavaScript</h1>
+  </header>
+
+  <!-- Image -->
+  <img class="rounded-xl mx-auto" style="min-width: 80%;" loading="lazy" src="/images/javascript-logo-banner.jpg" alt="How to compare dates in JavaScript">
+
+  <!-- YouTube Video -->
+  
+
+  <!-- Content -->
+  <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
+    <p>Working with dates in JavaScript can be tricky to say the least. Recently I needed to compare two dates with one another to see which was greater than, less than, etc.</p>
+<p>In my particular use case, I was using a date-picker that was returning a string like <code>01/28/2020</code>. I needed to see if this date was <code>>=</code> to the current day.</p>
+<p>The first thing I needed to do was convert this string into a JavaScript Date Object.</p>
+<pre is:raw="" class="astro-code" style="background-color: #0d1117; overflow-x: auto;"><code><span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">date</span><span style="color: #FF7B72">:</span><span style="color: #C9D1D9"> </span><span style="color: #FFA657">new</span><span style="color: #C9D1D9"> </span><span style="color: #FFA657">Date</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"01/28/2020"</span><span style="color: #C9D1D9">);</span></span>
+<span class="line"><span style="color: #C9D1D9">console.</span><span style="color: #D2A8FF">log</span><span style="color: #C9D1D9">(date);</span></span>
+<span class="line"><span style="color: #8B949E">// Tue Jan 28 2020 00:00:00 GMT-0500 (Eastern Standard Time)</span></span></code></pre>
+<p>Then, compare this date with the current day:</p>
+<pre is:raw="" class="astro-code" style="background-color: #0d1117; overflow-x: auto;"><code><span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">compareDate</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"01/28/2020"</span><span style="color: #C9D1D9">);</span></span>
+<span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">today</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">();</span></span>
+<span class="line"><span style="color: #C9D1D9">console.</span><span style="color: #D2A8FF">log</span><span style="color: #C9D1D9">(compareDate </span><span style="color: #FF7B72">>=</span><span style="color: #C9D1D9"> today);</span></span>
+<span class="line"><span style="color: #8B949E">// false</span></span></code></pre>
+<p>The issue is that even though the dates are the same, the times are not.</p>
+<pre is:raw="" class="astro-code" style="background-color: #0d1117; overflow-x: auto;"><code><span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">compareDate</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"01/28/2020"</span><span style="color: #C9D1D9">);</span></span>
+<span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">today</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">();</span></span>
+<span class="line"><span style="color: #C9D1D9">console.</span><span style="color: #D2A8FF">log</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"compareDate: "</span><span style="color: #C9D1D9">, compareDate);</span></span>
+<span class="line"><span style="color: #C9D1D9">console.</span><span style="color: #D2A8FF">log</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"today: "</span><span style="color: #C9D1D9">, today);</span></span>
+<span class="line"><span style="color: #8B949E">// compareDate:  Tue Jan 28 2020 00:00:00 GMT-0500 (Eastern Standard Time)</span></span>
+<span class="line"><span style="color: #8B949E">// today:  Tue Jan 28 2020 21:33:27 GMT-0500 (Eastern Standard Time)</span></span></code></pre>
+<p>Notice how <code>compareDate</code> has all zero’s for time. The difference in time is the reason why this comparison fails. To fix this, we need to create the current day without time. We do this by instantiating a new JS Date object by individually passing in the year, month and day.</p>
+<pre is:raw="" class="astro-code" style="background-color: #0d1117; overflow-x: auto;"><code><span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">todayWithoutTime</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">(</span></span>
+<span class="line"><span style="color: #C9D1D9">  </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">().</span><span style="color: #D2A8FF">getFullYear</span><span style="color: #C9D1D9">(),</span></span>
+<span class="line"><span style="color: #C9D1D9">  </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">().</span><span style="color: #D2A8FF">getMonth</span><span style="color: #C9D1D9">(),</span></span>
+<span class="line"><span style="color: #C9D1D9">  </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">().</span><span style="color: #D2A8FF">getDate</span><span style="color: #C9D1D9">()</span></span>
+<span class="line"><span style="color: #C9D1D9">);</span></span>
+<span class="line"><span style="color: #C9D1D9">console.</span><span style="color: #D2A8FF">log</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"todayWithoutTime: "</span><span style="color: #C9D1D9">, todayWithoutTime);</span></span>
+<span class="line"><span style="color: #8B949E">// todayWithoutTime:  Tue Jan 28 2020 00:00:00 GMT-0500 (Eastern Standard Time)</span></span></code></pre>
+<p>So let’s try our comparison again.</p>
+<pre is:raw="" class="astro-code" style="background-color: #0d1117; overflow-x: auto;"><code><span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">compareDate</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">(</span><span style="color: #A5D6FF">"01/28/2020"</span><span style="color: #C9D1D9">);</span></span>
+<span class="line"><span style="color: #FF7B72">const</span><span style="color: #C9D1D9"> </span><span style="color: #79C0FF">todayWithoutTime</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">=</span><span style="color: #C9D1D9"> </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">(</span></span>
+<span class="line"><span style="color: #C9D1D9">  </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">().</span><span style="color: #D2A8FF">getFullYear</span><span style="color: #C9D1D9">(),</span></span>
+<span class="line"><span style="color: #C9D1D9">  </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">().</span><span style="color: #D2A8FF">getMonth</span><span style="color: #C9D1D9">(),</span></span>
+<span class="line"><span style="color: #C9D1D9">  </span><span style="color: #FF7B72">new</span><span style="color: #C9D1D9"> </span><span style="color: #D2A8FF">Date</span><span style="color: #C9D1D9">().</span><span style="color: #D2A8FF">getDate</span><span style="color: #C9D1D9">()</span></span>
+<span class="line"><span style="color: #C9D1D9">);</span></span>
+<span class="line"><span style="color: #C9D1D9">console.</span><span style="color: #D2A8FF">log</span><span style="color: #C9D1D9">(compareDate </span><span style="color: #FF7B72">>=</span><span style="color: #C9D1D9"> todayWithoutTime);</span></span>
+<span class="line"><span style="color: #8B949E">// true</span></span></code></pre>
+<p>That’s it. Just remember that when comparing dates in JavaScript it is vital to factor in the time. 😎</p>
+  </section>
+
+  <aside class="text-center py-16 max-w-3xl mx-auto">
+  <div class="w-full border-t-2 mb-8 border-black squiggle"></div>
+  <h3 class="font-display text-4xl uppercase font-bold leading-none">Subscribe to the newsletter</h3>
+  <form class="mt-8 flex flex-wrap items-center md:w-2/3 mx-auto">
+        <input name="email" class="w-full flex-1 bg-gray-200 py-3 px-6 rounded" type="email" placeholder="Your email" required data-test="subscribe-input">
+        <button class="bg-blue-500 md:ml-3 mt-3 md:mt-0 w-full md:w-auto text-white py-3 px-6 rounded hover:squiggle" type="submit" data-test="subscribe-submit-btn">Subscribe</button>
+    </form>
+  <div class="w-full border-b-2 pt-12 border-black squiggle"></div>
+</aside>
+</article>
+    </main>
+  </body></html>

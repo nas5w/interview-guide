@@ -13,7 +13,3 @@ If you'd like to support this guide, all I ask is that you (1) ⭐️ star the r
 ## View the guide
 
 To view the guide online, navigate to [https://interviewguide.dev](https://interviewguide.dev).
-
-## Making suggestions or contributing
-
-I'm always open to suggestions! However, since this guide represents my specific process for interview prep, I might be hesitant to include resources that I haven't actually used. Still, if you would like to make suggestions, please [open an issue](https://github.com/nas5w/interview-guide/issues) so we can discuss.

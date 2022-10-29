@@ -16,13 +16,11 @@ Everything in this guide represents my own views and not the views of any of my 
 
 ## Supporting this guide
 
-This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github or gave me a follow on Twitter:
+This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github:
 
 <div style="display: flex; gap: 2rem; justify-content: center">
 
 <star />
-
-<follow />
 
 </div>
 

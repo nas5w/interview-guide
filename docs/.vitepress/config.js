@@ -25,7 +25,6 @@ export default {
   themeConfig: {
     siteTitle: "InterviewGuide.dev",
     socialLinks: [
-      { icon: "twitter", link: "https://twitter.com/nas5w" },
       { icon: "github", link: "https://github.com/nas5w/interview-guide" },
     ],
     sidebar: [

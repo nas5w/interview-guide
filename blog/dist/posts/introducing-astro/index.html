@@ -1,0 +1,135 @@
+<!DOCTYPE html><html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-87340191-1"></script>
+
+
+<!-- Global Metadata -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link rel="sitemap" href="/sitemap.xml">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+
+<!-- Primary Meta Tags -->
+<title>Introducing Astro: Ship Less JavaScript</title>
+<meta name="title" content="Introducing Astro: Ship Less JavaScript">
+<meta name="description" content="We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://howtocode.io">
+<meta property="og:title" content="Introducing Astro: Ship Less JavaScript">
+<meta property="og:description" content="We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience.">
+<meta property="og:image" content="/images/social.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://howtocode.io">
+<meta property="twitter:title" content="Introducing Astro: Ship Less JavaScript">
+<meta property="twitter:description" content="We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience.">
+<meta property="twitter:image" content="/images/social.jpg">
+
+<!-- Prism CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-tomorrow.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/toolbar/prism-toolbar.min.css">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@900&family=Poppins:ital,wght@0,400;0,600;1,400;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/blog/assets/a634c526.2696c97b.css" /><script type="module" src="/blog/hoisted.825a8ba2.js"></script></head>
+
+  <body>
+    <nav>
+  <div class="max-w-5xl mx-auto px-3 py-3 flex items-center justify-between h-16">
+    <a href="/" class="font-bold text-xl hover:text-hot-pink">Creek</a>
+    <a href="/search" class="">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+    </a>
+  </div>
+  <div class="w-full border-b-2 border-black squiggle"></div>
+</nav>
+    <main class="py-12 lg:py-20">
+      <article class="max-w-5xl mx-auto px-3">
+  <header class="mx-auto max-w-3xl text-center content">
+    <h1>Introducing Astro: Ship Less JavaScript</h1>
+  </header>
+
+  <!-- Image -->
+  <img class="rounded-xl mx-auto" style="min-width: 80%;" loading="lazy" src="/images/introducing-astro.jpg" alt="Introducing Astro: Ship Less JavaScript">
+
+  <!-- YouTube Video -->
+  
+
+  <!-- Content -->
+  <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
+    <p>There’s a simple secret to building a faster website — <em>just ship less</em>.</p>
+<p>Unfortunately, modern web development has been trending in the opposite direction—towards <em>more.</em> More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.</p>
+<p>Today I’m excited to publicly share Astro: a new kind of static site builder that delivers lightning-fast performance with a modern developer experience. To design Astro, we borrowed the best parts of our favorite tools and then added a few innovations of our own, including:</p>
+<ul>
+<li><strong>Bring Your Own Framework (BYOF):</strong> Build your site using React, Svelte, Vue, Preact, web components, or just plain ol’ HTML + JavaScript.</li>
+<li><strong>100% Static HTML, No JS:</strong> Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.</li>
+<li><strong>On-Demand Components:</strong> Need some JS? Astro can automatically hydrate interactive components when they become visible on the page. If the user never sees it, they never load it.</li>
+<li><strong>Fully-Featured:</strong> Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any of your favorite npm packages.</li>
+<li><strong>SEO Enabled:</strong> Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication.</li>
+</ul>
+<p>This post marks the first public beta release of Astro. <strong>Missing features and bugs are still to be expected at this early stage.</strong> There are still some months to go before an official 1.0 release, but there are already several fast sites built with Astro in production today. We would love your early feedback as we move towards a v1.0 release later this year.</p>
+<blockquote>
+<p>To learn more about Astro and start building your first site, check out <a href="https://github.com/snowpackjs/astro#-guides">the project README.</a>.</p>
+</blockquote>
+<h2 id="getting-started">Getting Started</h2>
+<p>Starting a new project in Astro is easy:</p>
+<pre is:raw="" class="astro-code" style="background-color: #0d1117; overflow-x: auto;"><code><span class="line"><span style="color: #8B949E"># create your project</span></span>
+<span class="line"><span style="color: #C9D1D9">mkdir new-project-directory</span></span>
+<span class="line"><span style="color: #79C0FF">cd</span><span style="color: #C9D1D9"> new-project-directory</span></span>
+<span class="line"><span style="color: #C9D1D9">npm init astro</span></span>
+<span class="line"></span>
+<span class="line"><span style="color: #8B949E"># install your dependencies</span></span>
+<span class="line"><span style="color: #C9D1D9">npm install</span></span>
+<span class="line"></span>
+<span class="line"><span style="color: #8B949E"># start the dev server and open your browser</span></span>
+<span class="line"><span style="color: #C9D1D9">npm run dev</span></span></code></pre>
+<blockquote>
+<p>To learn more about Astro and start building your first site, check out <a href="https://github.com/snowpackjs/astro#-guides">the project README.</a>.</p>
+</blockquote>
+<h2 id="how-astro-works">How Astro Works</h2>
+<p>Astro works a lot like a static site generator. If you have ever used Eleventy, Hugo, or Jekyll (or even a server-side web framework like Rails, Laravel, or Django) then you should feel right at home with Astro.</p>
+<p>In Astro, you compose your website using UI components from your favorite JavaScript web framework (React, Svelte, Vue, etc). Astro renders your entire site to static HTML during the build. The result is a fully static website with all JavaScript removed from the final page. No monolithic JavaScript application required, just static HTML that loads as fast as possible in the browser regardless of how many UI components you used to generate it.</p>
+<p>Of course, sometimes client-side JavaScript is inevitable. Image carousels, shopping carts, and auto-complete search bars are just a few examples of things that require some JavaScript to run in the browser. This is where Astro really shines: When a component needs some JavaScript, Astro only loads that one component (and any dependencies). The rest of your site continues to exist as static, lightweight HTML.</p>
+<p>In other full-stack web frameworks this level of per-component optimization would be impossible without loading the entire page in JavaScript, delaying interactivity. In Astro, this kind of <a href="https://addyosmani.com/blog/rehydration/">partial hydration</a> is built into the tool itself.</p>
+<p>You can even <a href="https://codepen.io/jonneal/full/ZELvMvw">automatically defer components</a> to only load once they become visible on the page with the <code>client:visible</code> directive.</p>
+<p>This new approach to web architecture is called <a href="https://jasonformat.com/islands-architecture/">islands architecture</a>. We didn’t coin the term, but Astro may have perfected the technique. We are confident that an HTML-first, JavaScript-only-as-needed approach is the best solution for the majority of content-based websites.</p>
+<blockquote>
+<p>To learn more about Astro and start building your first site, check out <a href="https://github.com/snowpackjs/astro#-guides">the project README.</a></p>
+</blockquote>
+<h2 id="embracing-the-pit-of-success">Embracing the Pit of Success</h2>
+<blockquote>
+<p>A well-designed system makes it easy to do the right things and annoying (but not impossible) to do the wrong things</p><div class="source"><p>– Jeff Atwood</p><a href="https://blog.codinghorror.com/falling-into-the-pit-of-success/">Falling Into The Pit of Success</a></div><p></p>
+</blockquote>
+<p>Poor performance is often framed as a failure of the developer, but we respectfully disagree. In many cases, poor performance is a failure of tooling. It should be difficult to build a slow website.</p>
+<p>Astro’s main design principle is to lead developers into what <a href="https://twitter.com/ricomariani">Rico Mariani</a> dubbed “the pit of success”. It is our goal to build every site “fast by default” while also delivering a familiar, modern developer experience.</p>
+<p>By building your site to static HTML by default, Astro makes it difficult (but never impossible 😉) to build a slow site.</p>
+<h2 id="long-term-sustainability">Long-Term Sustainability</h2>
+<p>Astro is built by the team of open source developers behind <a href="https://snowpack.dev">Snowpack</a> and <a href="https://skypack.dev">Skypack</a>, with additional contributions from the community.</p>
+<p><strong>Astro is and always will be free.</strong> It is an open source project released under the <a href="https://github.com/snowpackjs/astro/blob/main/LICENSE">MIT license</a>.</p>
+<p>We care deeply about building a more sustainable future for open source software. At the same time, we need to support Astro’s development long-term. This requires money (donations alone aren’t enough.)</p>
+<p>We’re inspired by the early success of projects like <a href="https://tailwindcss.com/">Tailwind</a>, <a href="https://rome.tools/">Rome</a>, <a href="https://remix.run/">Remix</a>, <a href="https://ionicframework.com/">Ionic</a>, and others who are experimenting with long-term financial sustainability on top of Open Source. Over the next year we’ll be exploring how we can create a sustainable business to support a 100% free, open source Astro for years to come.</p>
+<p>If your company is as excited about Astro as we are, <a href="https://astro.build/chat">we’d love to hear from you.</a></p>
+<p>Finally, I’d like to give a <strong>HUGE</strong> thanks to the 300+ developers who joined our earliest private beta. Your feedback has been essential in shaping Astro into the tool it is today. If you’re interested in getting involved (or just following along with development) please <a href="https://astro.build/chat">join us on Discord.</a></p>
+<blockquote>
+<p>To learn more about Astro and start building your first site, check out <a href="https://github.com/snowpackjs/astro#-guides">the project README.</a></p>
+</blockquote>
+  </section>
+
+  <aside class="text-center py-16 max-w-3xl mx-auto">
+  <div class="w-full border-t-2 mb-8 border-black squiggle"></div>
+  <h3 class="font-display text-4xl uppercase font-bold leading-none">Subscribe to the newsletter</h3>
+  <form class="mt-8 flex flex-wrap items-center md:w-2/3 mx-auto">
+        <input name="email" class="w-full flex-1 bg-gray-200 py-3 px-6 rounded" type="email" placeholder="Your email" required data-test="subscribe-input">
+        <button class="bg-blue-500 md:ml-3 mt-3 md:mt-0 w-full md:w-auto text-white py-3 px-6 rounded hover:squiggle" type="submit" data-test="subscribe-submit-btn">Subscribe</button>
+    </form>
+  <div class="w-full border-b-2 pt-12 border-black squiggle"></div>
+</aside>
+</article>
+    </main>
+  </body></html>
