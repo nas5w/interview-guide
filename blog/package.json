@@ -6,7 +6,6 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "postbuild": "node ./scripts/search/prepare-index.js",
     "preview": "astro preview"
   },
   "devDependencies": {
