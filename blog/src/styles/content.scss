@@ -1,0 +1,137 @@
+.content {
+  h1 {
+    @apply font-display uppercase font-bold leading-none;
+    margin-bottom: 1em;
+
+    font-size: min(max(3rem, 6.25vw), 7rem);
+
+    @supports (font-size: clamp(3rem, 6.25vw, 7rem)) {
+      font-size: clamp(3rem, 6.25vw, 7rem);
+    }
+  }
+
+  h2 {
+    @apply text-4xl font-bold leading-none mt-12 py-6 tracking-tight;
+  }
+
+  h3 {
+    @apply text-xl font-bold leading-none py-6;
+  }
+
+  h4 {
+    @apply font-bold uppercase tracking-widest leading-none py-6;
+  }
+
+  >p {
+    @apply text-lg leading-relaxed;
+    margin-bottom: 2em;
+  }
+
+  /* > p:first-of-type {
+        @apply text-2xl;
+    } */
+
+  >blockquote {
+    @apply text-center font-bold italic px-4 mb-12 pt-6 text-3xl leading-tight;
+  }
+
+  >blockquote>p {
+    @apply text-3xl leading-tight;
+  }
+
+  >img {
+    @apply my-12;
+  }
+
+  a {
+    @apply font-bold underline text-hot-pink;
+
+    &:hover {
+      @apply text-black;
+    }
+  }
+
+  ul:not(.list-none) {
+    @apply pl-0 list-disc ml-10 mb-8 text-lg;
+
+    li {
+      @apply mb-1;
+    }
+  }
+
+  ol {
+    @apply pl-0 list-decimal ml-10 mb-8 text-lg;
+
+    li {
+      @apply mb-1;
+    }
+  }
+
+  code {
+    background: #2d2d2d;
+    color: #ccc;
+    padding: 5px;
+    width: 100%;
+  }
+
+  /* pre {
+        margin-bottom: 2em;
+    } */
+
+  p code,
+  ul li *:not(pre) code,
+  ul li>code,
+  ol li *:not(pre) code,
+  ol li>code {
+    @apply inline-block text-white text-sm p-1 leading-none whitespace-nowrap font-mono align-baseline;
+  }
+
+  pre,
+  // pre&,
+  >ul li pre,
+  >ol li pre {
+    @apply flex p-0 text-sm leading-loose mb-8;
+  }
+
+  pre code,
+  // pre code&,
+  >ul li pre code,
+  >ol li pre code {
+    @apply p-2;
+  }
+
+  pre[class*="language-"] {
+    margin-bottom: 2em;
+  }
+
+  table {
+    @apply w-full text-left border-2 border-collapse mb-8 text-sm;
+
+    th {
+      @apply font-bold p-4 text-xl border-t-4 border-b;
+    }
+
+    td {
+      @apply p-4 border-b;
+    }
+
+    p {
+      @apply leading-normal;
+    }
+  }
+}
+
+.content section>*:first-child {
+  @apply mt-0 pt-0;
+}
+
+
+.personality-formal .content {
+  h1 {
+    @apply font-black normal-case;
+  }
+
+  >p {
+    @apply leading-normal;
+  }
+}

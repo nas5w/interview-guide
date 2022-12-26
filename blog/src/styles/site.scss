@@ -1,0 +1,53 @@
+.personality-casual {
+  .squiggle {
+    filter: url("#squiggle");
+    position: relative;
+    transform: translateZ(0);
+  }
+}
+
+.embed-responsive {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+
+  .embed-responsive-item,
+  iframe,
+  embed,
+  object,
+  video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    border: 0;
+  }
+}
+
+.aspect-ratio-none {
+  padding-bottom: 0;
+}
+
+.aspect-ratio-square {
+  padding-bottom: 100%;
+}
+
+.aspect-ratio-16\/9 {
+  padding-bottom: 56.25%;
+}
+
+.aspect-ratio-4\/3 {
+  padding-bottom: 75%;
+}
+
+.aspect-ratio-21\/9 {
+  padding-bottom: 42.86%;
+}
+
+[x-cloak] {
+  display: none;
+}
