@@ -12,3 +12,6 @@ copy-blog:
 
 build:
 	make build-docs && make build-blog && make copy-blog
+
+install:
+	yarn install && cd blog && yarn install
