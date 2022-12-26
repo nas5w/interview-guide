@@ -17,6 +17,9 @@ const {title, description, date, hero, youtube} = content;
       <BlogPost title={title} hero={hero} date={date} youtube={youtube} >
         <slot />
       </BlogPost>
+      <div class="text-center">
+        Enjoy this post? Consider <a class="text-hot-pink border-b border-dashed hover:border-transparent hover:text-black transition-all duration-300" href="/">checking out the free Interview Guide!</a>
+      </div>
     </main>
   </body>
 </html>

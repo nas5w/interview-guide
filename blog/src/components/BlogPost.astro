@@ -1,6 +1,4 @@
 ---
-import EmailSignup from './Subscribe/EmailSignup.astro'
-
 export interface Props {
   title: string;
   date: string;
@@ -30,6 +28,4 @@ const { title, date, hero, youtube } = Astro.props;
   <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
     <slot />
   </section>
-
-  <EmailSignup />
 </article>
