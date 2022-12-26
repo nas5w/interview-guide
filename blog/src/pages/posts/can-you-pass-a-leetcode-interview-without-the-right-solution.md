@@ -8,7 +8,7 @@ tags: ["leetcode"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-One of the biggest misconceptions when preparing for software engineering interviews is that you have to get the "right" answer in order to pass the interview.
+One of the biggest misconceptions when preparing for software engineering interviews is that you have to get the "right" answer in order to pass the interview. This is not true, mostly because there are many more facets to technical interviewing than solving the problem.
 
 # Unpacking our assumptions
 
@@ -24,3 +24,19 @@ Google's evaluation criteria is no secret. During coding interviews, they use th
 - Coding
 - Communication
 - Problem-solving
+
+The only one of these criteria that assesses the goodness of the algorithm you implement is the first one. This means that, even if you don't come up with the best algorithm you still have plenty of opportunities to wow the interviewer.
+
+# Leaving the best impression
+
+There are a lot of ways other than nailing an algorithm to leave a great impression:
+
+- **Be great at talking while you code.** Practice this! Don't let an actual interview be the first time you explain your code as you're writing it.
+- **Make sure the interviewer agrees with your approach before you invest a bunch of time.** It's tempting to put your head down and try to crank out an answer. Don't do this! First, _validate your approach with the interviewer_. Some interviewers will defer to you, but many will let you know if they think you're headed down the wrong path or might ask you some clarifying questions. Even if you don't nail the algo, you can demonstrate you have a sound thought process and you're good at technical communication.
+- **Be friendly and composed.** LeetCode-style interviews are stressful, so if you can maintain your composure and be friendly with the interviewer, you'll leave a really good impression.
+
+Whether you're in a LeetCode interview, System Design interview, Behavioral interview, or some other kind of interview, it's critical to remember that you're being evaluated on how good an employee you'd be above all else.
+
+# Take it easy on yourself
+
+Realizing that you don't need to come up with the perfect algorithm is freeing because you can focus more on showing off your communication and soft skills. It will also result in you putting less pressure on yourself and therefore being more composed. So take it a bit easier on yourself and just present the best version of yourself to the human on the other side of the interview table.
