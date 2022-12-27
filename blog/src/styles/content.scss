@@ -3,10 +3,10 @@
     @apply font-display uppercase font-bold leading-none;
     margin-bottom: 1em;
 
-    font-size: min(max(3rem, 6.25vw), 7rem);
+    font-size: min(max(2rem, 4.25vw), 4rem);
 
-    @supports (font-size: clamp(3rem, 6.25vw, 7rem)) {
-      font-size: clamp(3rem, 6.25vw, 7rem);
+    @supports (font-size: clamp(2rem, 4.25vw, 4rem)) {
+      font-size: clamp(2rem, 4.25vw, 4rem);
     }
   }
 
@@ -22,7 +22,7 @@
     @apply font-bold uppercase tracking-widest leading-none py-6;
   }
 
-  >p {
+  > p {
     @apply text-lg leading-relaxed;
     margin-bottom: 2em;
   }
@@ -31,15 +31,15 @@
         @apply text-2xl;
     } */
 
-  >blockquote {
+  > blockquote {
     @apply text-center font-bold italic px-4 mb-12 pt-6 text-3xl leading-tight;
   }
 
-  >blockquote>p {
+  > blockquote > p {
     @apply text-3xl leading-tight;
   }
 
-  >img {
+  > img {
     @apply my-12;
   }
 
@@ -80,9 +80,9 @@
 
   p code,
   ul li *:not(pre) code,
-  ul li>code,
+  ul li > code,
   ol li *:not(pre) code,
-  ol li>code {
+  ol li > code {
     @apply inline-block text-white text-sm p-1 leading-none whitespace-nowrap font-mono align-baseline;
   }
 
@@ -121,17 +121,16 @@
   }
 }
 
-.content section>*:first-child {
+.content section > *:first-child {
   @apply mt-0 pt-0;
 }
-
 
 .personality-formal .content {
   h1 {
     @apply font-black normal-case;
   }
 
-  >p {
+  > p {
     @apply leading-normal;
   }
 }
