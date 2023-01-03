@@ -26,7 +26,7 @@ Not to be confused with behavioral interviews, values interviews attempt to gaug
 Some companies explicitly test against values while others unconsciously make this assessment. Regardless, it's very important to know a company's public values and be prepared to demonstrate how you align with them.
 
 ::: info VALUES INTERVIEW EXAMPLE QUESTION
-Are our company, one of our core values is "team above individual." How have you exemplified this value?
+At our company, one of our core values is "team above individual." How have you exemplified this value?
 :::
 
 ## Leetcode-style interviews
