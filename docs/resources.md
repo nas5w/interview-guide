@@ -52,7 +52,7 @@ Good resources for brushing up on technical knowledge questions.
 | Resource                                          | Description                                                                     | Link                                                                                  |
 | ------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Front-end Developer Interview Questions on Github | A very comprehensive list of front-end developer technical knowledge questions. | [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)               |
-| Backend Developer Interview Questions on Github   | A list of backedn developer technical knowledge questions                       | [Link](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)      |
+| Backend Developer Interview Questions on Github   | A list of backend developer technical knowledge questions                       | [Link](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)      |
 | A Googler's front-end interview questions         | Questions one Googler mentions are his go-to for senior candidates.             | [Link](https://medium.com/codex/my-google-front-end-interview-questions-bca96925c16a) |
 
 ## Other useful resources
