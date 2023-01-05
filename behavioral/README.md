@@ -6,13 +6,13 @@
 
 ## What is a behavioral interview?
 
-Behavioral interviews gauge your soft and interpersonal skills rather than your technical accumen. Pretty much every company has a behavioral interview component. This is for some very good reasons:
+Behavioral interviews gauge your soft and interpersonal skills rather than your technical acumen. Pretty much every company has a behavioral interview component. This is for some very good reasons:
 
 - No one wants to work with a jerk
 - Engineers often have to handle ambiguity
 - Companies want engineers that perform well under stress
 
-It has become increasing popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpresonal relationships.
+It has become increasingly popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpersonal relationships.
 
 **Resource alert**
 
@@ -62,7 +62,7 @@ The STAR method is a popular framework for answering past experience questions. 
 - **A**ction - What action did you personally take to make the situation better (or if it was a mistake, what mistake did you make)?
 - **R**esult - What was the result? How did your action get things back on track? Or what happened as a result of your mistake?
 
-If appropriate to the situation, add a final thougth on what you learned. Companies like when candidates are capable of reflection and self-improvement.
+If appropriate to the situation, add a final thought on what you learned. Companies like when candidates are capable of reflection and self-improvement.
 
 ### Quantify!
 
@@ -116,7 +116,7 @@ It's possible the interview says "it's up to you" in response to a lot of these 
 
 ### Interpersonal problem-solving
 
-A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solutiont treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
+A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solution treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
 
 ### Example hypothetical questions
 
