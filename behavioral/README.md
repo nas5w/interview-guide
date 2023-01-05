@@ -116,7 +116,7 @@ It's possible the interview says "it's up to you" in response to a lot of these 
 
 ### Interpersonal problem-solving
 
-A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solutiont treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
+A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solution treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
 
 ### Example hypothetical questions
 
