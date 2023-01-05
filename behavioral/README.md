@@ -12,7 +12,7 @@ Behavioral interviews gauge your soft and interpersonal skills rather than your 
 - Engineers often have to handle ambiguity
 - Companies want engineers that perform well under stress
 
-It has become increasingly popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpresonal relationships.
+It has become increasingly popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpersonal relationships.
 
 **Resource alert**
 
