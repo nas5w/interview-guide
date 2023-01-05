@@ -62,7 +62,7 @@ The STAR method is a popular framework for answering past experience questions. 
 - **A**ction - What action did you personally take to make the situation better (or if it was a mistake, what mistake did you make)?
 - **R**esult - What was the result? How did your action get things back on track? Or what happened as a result of your mistake?
 
-If appropriate to the situation, add a final thougth on what you learned. Companies like when candidates are capable of reflection and self-improvement.
+If appropriate to the situation, add a final thought on what you learned. Companies like when candidates are capable of reflection and self-improvement.
 
 ### Quantify!
 
