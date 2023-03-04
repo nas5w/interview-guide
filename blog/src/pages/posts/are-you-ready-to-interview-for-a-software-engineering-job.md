@@ -24,7 +24,7 @@ When I hear this question, what I really hear is:
 
 > "I'm scared I'm going to fail an interview and embarrass myself."
 
-All I can say to this is: yeah, it might happen. It has happened to me and countless other engineers. But guess what? We're happily employed as software engineers. We took the risk and, failed some interviews, but now we're employed in the field.
+All I can say to this is: yeah, it might happen. It has happened to me and countless other engineers. But guess what? We're happily employed as software engineers. We took the risk and failed some interviews, but now we're employed in the field.
 
 My recommendation is to get over this fear or you'll be in "am I ready" purgatory forever. Do some interviews, fail them, take notes on what you got wrong so you can study them, and take more interviews. Eventually, you _will_ land a role and that will be the only thing that matters in the end.
 
