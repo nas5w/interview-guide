@@ -17,7 +17,35 @@ const {title, description, date, hero, youtube} = content;
       <BlogPost title={title} hero={hero} date={date} youtube={youtube} >
         <slot />
       </BlogPost>
-      <div class="text-center">
+      <div class="max-w-3xl mx-auto p-6 border rounded">
+        <h2 class="text-2xl">💌 Subscribe to the newsletter!</h2>
+        <p class="py-4">
+          I'm beyond excited to announce the launch of the <strong>InterviewGuide.dev
+          Newsletter</strong>. In this free newsletter, I'll be sharing:
+        </p>
+        <ul class="list-disc pl-4">
+          <li>Additional interview tips</li>
+          <li>Curated jobs</li>
+          <li>Other opportunities to land tech jobs</li>
+          <li>Ways to get feedback from me directly</li>
+        </ul>
+        <p class="py-4">Never spam. Unsubscribe anytime. Sound good?</p>
+        <a
+          style="
+            display: inline-block;
+            border: 1px solid black;
+            padding: 5px 10px;
+            border-radius: 2rem;
+            text-decoration: none;
+          "
+          class="hover:border-hot-pink hover:text-hot-pink transition-all duration-300"
+          href="https://www.tinyletter.com/interviewguide"
+          target="_blank"
+        >
+          Sign me up! &raquo;
+        </a>
+      </div>
+      <div class="text-center mt-20">
         Enjoy this post? Consider <a class="text-hot-pink border-b border-dashed hover:border-transparent hover:text-black transition-all duration-300" href="/">checking out my free Interview Guide!</a>
       </div>
     </main>
