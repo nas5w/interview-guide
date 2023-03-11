@@ -17,4 +17,4 @@ All of the chapter images throughout this guide came from DrawKit. Check them ou
 
 This guide was authored using [Vitepress](https://vitepress.vuejs.org/). It was an amazing experience that let me focus on the writing process. Give it a try!
 
-<star expanded="true" />
+<newsletter />

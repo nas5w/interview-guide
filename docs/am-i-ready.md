@@ -20,4 +20,4 @@ If you even feel remotely prepared, **go for it** . What the worst that could ha
 
 When in doubt, do the interview!
 
-<star expanded="true" />
+<newsletter />

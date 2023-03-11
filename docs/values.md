@@ -28,4 +28,4 @@ Having the company's core values in front of you will help jog your memory. Inte
 
 I'm guessing you agree with a number of core values that any company you apply to has. It's fairly common for companies to to ask "why do you want to work at this company?" That's a _perfect_ opportunity to mention the core values with which you align!
 
-<star expanded="true" />
+<newsletter />

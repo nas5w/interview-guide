@@ -35,4 +35,4 @@ Before your interviews, there are a bunch of questions you should probably ask y
 
 I have seen far too many candidates self-sabotage by being rude or impolite. Being a good person doesn't just count in the interview rounds&mdash;it counts when interacting with recruiters as well. Treating someone with respect is the right thing to do, but it has the added benefit of giving you a better chance to get the job. Consider two candidates with identical technical skills, but one is a really nice person who seems great to work with and another came off as a bit of a jerk. Who would get the offer?
 
-<star expanded="true" />
+<newsletter />

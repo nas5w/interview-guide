@@ -26,4 +26,4 @@ Here are some lists I have used to find technical concepts to study:
 - [A Googler's front-end interview questions Questions](https://medium.com/codex/my-google-front-end-interview-questions-bca96925c16a)
 - [Backend Developer Interview Questions on Github](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
-<star expanded="true" />
+<newsletter />

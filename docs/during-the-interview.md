@@ -47,4 +47,4 @@ It's pretty common to get stuck during coding challenges. At this point you migh
 
 I always try to approach communication with prospective employers with the "good colleague" lens. How can I behave and communicate such that this person will want me as a colleague?
 
-<star expanded="true" />
+<newsletter />

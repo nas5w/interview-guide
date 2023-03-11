@@ -118,4 +118,4 @@ This was a long section, so I'd like to provide a recap.
 4. Use [Glassdoor](https://glassdoor.com) to see what types of questions are asked at a company.
 5. Don't develop tunnel-vision on just solving the problem. Make sure you focus on coming off as a good potential colleague.
 
-<star expanded="true" />
+<newsletter />

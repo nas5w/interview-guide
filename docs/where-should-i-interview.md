@@ -26,4 +26,4 @@ If you're interested in what salary you might make at a company, use [levels.fyi
 
 If you're ever on the fence about applying or interviewing somewhere, my advice is to go for it! Worse case, you get some great practice. Best case, you get an offer and either accept it or use it as leverage against another offer.
 
-<star expanded="true" />
+<newsletter />

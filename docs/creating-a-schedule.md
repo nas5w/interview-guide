@@ -53,4 +53,4 @@ I time-boxed my prep to Monday, Wednesday, Friday from 8-10pm (after work and af
 
 If you're junior, you may spend less time (or none at all) on System Design and more in other areas. Importantly, do what feels right for you and adjust as necessary. It's far better to have something imperfect than having nothing at all.
 
-<star expanded="true" />
+<newsletter />

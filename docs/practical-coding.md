@@ -59,4 +59,4 @@ Practical problems are _very_ domain-specific. That being said, here are some ex
 - Create a slider component
 - Create an image carousel
 
-<star expanded="true" />
+<newsletter />

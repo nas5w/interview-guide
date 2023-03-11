@@ -44,4 +44,4 @@ I suggest approaching technical interviews how a baseball player approaches an a
 
 That's how software engineering interviews are. They're not easy and you often don't get the job&mdash;but that's totally okay. I personally have had a bunch of interviews where I performed poorly. Some where I just sat there and had no idea how to answer the question. None of that mattered though because each time I _eventually_ got a great job, and that's all that matters.
 
-<star expanded="true" />
+<newsletter />

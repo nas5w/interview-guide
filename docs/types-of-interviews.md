@@ -91,4 +91,4 @@ If you want to know what types of questions certain companies ask, I recommend t
 
 You'll notice the latter point as a theme throughout this handbook: ask the recruiter. They're an incredible source of information at a company and they want you to succeed. Treat them well!
 
-<star expanded="true" />
+<newsletter />
