@@ -1,17 +1,11 @@
 .content {
   h1 {
-    @apply font-display uppercase font-bold leading-none;
-    margin-bottom: 1em;
-
-    font-size: min(max(2rem, 4.25vw), 4rem);
-
-    @supports (font-size: clamp(2rem, 4.25vw, 4rem)) {
-      font-size: clamp(2rem, 4.25vw, 4rem);
-    }
+    @apply text-3xl mt-10 font-display font-bold leading-none;
+    margin-bottom: 0.5em;
   }
 
   h2 {
-    @apply text-4xl font-bold leading-none mt-12 py-6 tracking-tight;
+    @apply text-2xl font-bold leading-none mt-12 py-6 tracking-tight;
   }
 
   h3 {

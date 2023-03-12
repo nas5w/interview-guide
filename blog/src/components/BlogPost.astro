@@ -11,11 +11,11 @@ const { title, date, hero, youtube } = Astro.props;
 
 <article class="max-w-5xl mx-auto px-3">
   <header class="mx-auto max-w-3xl text-center content">
-    <h1>{title}</h1>
+    <h1 class="text-4xl my-0">{title}</h1>
   </header>
 
   <!-- Image -->
-  {hero && <img class="rounded-xl mx-auto" style="min-width: 80%;" loading="lazy" src={hero} alt={title} />}
+  {hero && <img class="rounded-xl mx-auto mt-20" style="width: 40rem; max-width: 100%" loading="lazy" src={hero} alt={title} />}
 
   <!-- YouTube Video -->
   {youtube && <div class="embed-responsive aspect-ratio-16/9 mt-6 lg:mt-12">
