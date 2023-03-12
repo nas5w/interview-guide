@@ -7,24 +7,49 @@
     </p>
     <ul>
       <li>Additional interview tips</li>
-      <li>Curated jobs</li>
-      <li>Other opportunities to land tech jobs</li>
+      <li>Curated jobs + other opportunities to land tech jobs</li>
       <li>Ways to get feedback from me directly</li>
     </ul>
-    <p>Never spam. Unsubscribe anytime. Sound good?</p>
-    <a
-      style="
-        display: inline-block;
-        border: 1px solid var(--vp-custom-block-tip-text);
-        padding: 5px 10px;
-        border-radius: 2rem;
-        margin-top: 1rem;
-        text-decoration: none;
-      "
-      href="https://www.tinyletter.com/interviewguide"
-      target="_blank"
+
+    <p>No spam. Unsubscribe any time. Sound good?</p>
+
+    <form
+      action="https://tinyletter.com/interviewguide"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://tinyletter.com/interviewguide', 'popupwindow', 'scrollbars=yes,width=800 height=600');return true"
     >
-      Sign me up! &raquo;
-    </a>
+      <p><label for="tlemail">Email address</label></p>
+      <p>
+        <input
+          type="email"
+          style="
+            width: 20rem;
+            max-width: 100%;
+            border: 1px solid var(--vp-custom-block-tip-text);
+            padding: 5px;
+            font-size: 1.2rem;
+          "
+          name="email"
+          id="tlemail"
+          required
+        />
+      </p>
+      <input type="hidden" value="1" name="embed" />
+      <input
+        style="
+          display: block;
+          border: 1px solid var(--vp-custom-block-tip-text);
+          padding: 5px 20px;
+          border-radius: 2rem;
+          margin-top: 1rem;
+          text-decoration: none;
+          padding: 5px;
+          font-size: 1rem;
+        "
+        type="submit"
+        value=" Sign me up "
+      />
+    </form>
   </div>
 </template>
