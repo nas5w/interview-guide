@@ -24,6 +24,10 @@ export default {
   cleanUrls: "with-subfolders",
   themeConfig: {
     siteTitle: "InterviewGuide.dev",
+    carbonAds: {
+      code: "CWYDVKJN",
+      placement: "interviewguidedev",
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/nas5w/interview-guide" },
     ],
