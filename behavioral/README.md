@@ -100,7 +100,7 @@ The following examples are graciously taken from the [Tech Interview Handbook](h
 
 ## Preparing for hypothetical questions
 
-In my experience these are a bit tougher than past experience questions due to their ambiguity. One of the best tips is from the aforementioned Jeff Sipe, who recommends asking clarifying questions (almost like a coding interview!) so you really understand your relationship to the sitation.
+In my experience these are a bit tougher than past experience questions due to their ambiguity. One of the best tips is from the aforementioned Jeff Sipe, who recommends asking clarifying questions (almost like a coding interview!) so you really understand your relationship to the situation.
 
 Let's look at an example to see what I mean:
 
