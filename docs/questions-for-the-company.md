@@ -10,7 +10,7 @@ Questions for the company are critical. They show the company that you're prepar
 
 ## When to ask questions
 
-Hopefully every interviewer with whom you speak will give you a chance to ask questions. Often, this comes at the end of an interview session. This is a great opportunity to learn about the company and whether you would want to work there. Definitely have at least a few questiosn for each interviewer, even if you ask the same questions to a couple different interviewers. From their perspective, it's a red flag when a candidate doesn't have any questions (how interested could this candidate be?).
+Hopefully every interviewer with whom you speak will give you a chance to ask questions. Often, this comes at the end of an interview session. This is a great opportunity to learn about the company and whether you would want to work there. Definitely have at least a few questions for each interviewer, even if you ask the same questions to a couple different interviewers. From their perspective, it's a red flag when a candidate doesn't have any questions (how interested could this candidate be?).
 
 ## What to ask
 
