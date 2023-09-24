@@ -12,7 +12,7 @@ Behavioral interviews gauge your soft and interpersonal skills rather than your 
 - Engineers often have to handle ambiguity
 - Companies want engineers that perform well under stress
 
-It has become increasing popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpresonal relationships.
+It has become increasingly popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpersonal relationships.
 
 ::: tip RESOURCE ALERT!
 One of my favorite resources for behavioral interviews is [Jeff Sipe's YouTube channel](https://www.youtube.com/c/JeffHSipe). He's a former Google recruiter and does a great job talking about the kind of empathy and interpersonal skills tech companies look for. I highly recommend you watch some of his videos.
@@ -62,11 +62,11 @@ The STAR method is a popular framework for answering past experience questions. 
 - **A**ction - What action did you personally take to make the situation better (or if it was a mistake, what mistake did you make)?
 - **R**esult - What was the result? How did your action get things back on track? Or what happened as a result of your mistake?
 
-If appropriate to the situation, add a final thougth on what you learned. Companies like when candidates are capable of reflection and self-improvement.
+If appropriate to the situation, add a final thought on what you learned. Companies like when candidates are capable of reflection and self-improvement.
 
 ### Quantify!
 
-Be sure to quantify your successes. Many organizations are data-driven and expect you to be as well. If possible try to tie your successes to revenue generated or, if not possible, tie your successes to something known to be correlated with revenue generated. Some good metrics that you may have affected:
+Be sure to quantify your successes. Many organizations are data-driven and expect you to be as well. If possible, try to tie your successes to revenue generated or, if not possible, tie your successes to something known to be correlated with revenue generated. Some good metrics that you may have affected:
 
 - Revenue
 - Number of users
@@ -100,7 +100,7 @@ The following examples are graciously taken from the [Tech Interview Handbook](h
 
 ## Preparing for hypothetical questions
 
-In my experience these are a bit tougher than past experience questions due to their ambiguity. One of the best tips is from the aforementioned Jeff Sipe, who recommends asking clarifying questions (almost like a coding interview!) so you really understand your relationship to the sitation.
+In my experience these are a bit tougher than past experience questions due to their ambiguity. One of the best tips is from the aforementioned Jeff Sipe, who recommends asking clarifying questions (almost like a coding interview!) so you really understand your relationship to the situation.
 
 Let's look at an example to see what I mean:
 
@@ -112,11 +112,11 @@ The wrong thing to do here is start directly answering the question&mdash;you do
 - When did this start? Was it recent? Has it been going on for a while?
 - Is there an event that appears to have triggered this behavior?
 
-It's possible the interview says "it's up to you" in response to a lot of these questions, which is totally fine! That means _you_ get to provide the clarification and answer it in a way that best suits you.
+It's possible the interviewer says "it's up to you" in response to a lot of these questions, which is totally fine! That means _you_ get to provide the clarification and answer it in a way that best suits you.
 
 ### Interpersonal problem-solving
 
-A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solutiont treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
+A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solution treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
 
 ### Example hypothetical questions
 

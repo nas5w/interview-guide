@@ -70,7 +70,7 @@ How would you design a real-time, web-based chat application?
 
 ## Technical knowledge/trivia interviews
 
-Technical trivia interviews generally don't involve writing code, but rather ask you technical questions to determine how well you know a subject area. These types of interviews get a bad rap, but their effectiveness really depends a lot on what types of questions are asked. For example, asking about some uncommon/obscure language feature that can be googled quickly is pointless and a bad way to assess someone's domain knowledge. On the other hand, asking someone about a foundational aspect of a domain works may be useful. Technical knowledge questions are fairly common in all interviews.
+Technical trivia interviews generally don't involve writing code, but rather ask you technical questions to determine how well you know a subject area. These types of interviews get a bad rap, but their effectiveness really depends a lot on what types of questions are asked. For example, asking about some uncommon/obscure language feature that can be googled quickly is pointless and a bad way to assess someone's domain knowledge. On the other hand, asking someone about how a foundational aspect of a domain works may be useful. Technical knowledge questions are fairly common in all interviews.
 
 ::: info TECHNICAL KNOWLEDGE EXAMPLE QUESTION
 Tell me about some measures you might implement to make sure your web application is secure.

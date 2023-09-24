@@ -66,7 +66,7 @@ If appropriate to the situation, add a final thought on what you learned. Compan
 
 ### Quantify!
 
-Be sure to quantify your successes. Many organizations are data-driven and expect you to be as well. If possible try to tie your successes to revenue generated or, if not possible, tie your successes to something known to be correlated with revenue generated. Some good metrics that you may have affected:
+Be sure to quantify your successes. Many organizations are data-driven and expect you to be as well. If possible, try to tie your successes to revenue generated or, if not possible, tie your successes to something known to be correlated with revenue generated. Some good metrics that you may have affected:
 
 - Revenue
 - Number of users
@@ -112,7 +112,7 @@ The wrong thing to do here is start directly answering the question&mdash;you do
 - When did this start? Was it recent? Has it been going on for a while?
 - Is there an event that appears to have triggered this behavior?
 
-It's possible the interview says "it's up to you" in response to a lot of these questions, which is totally fine! That means _you_ get to provide the clarification and answer it in a way that best suits you.
+It's possible the interviewer says "it's up to you" in response to a lot of these questions, which is totally fine! That means _you_ get to provide the clarification and answer it in a way that best suits you.
 
 ### Interpersonal problem-solving
 

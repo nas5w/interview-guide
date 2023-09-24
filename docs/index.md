@@ -16,7 +16,7 @@ Everything in this guide represents my own views and not the views of any of my 
 
 ## Supporting this guide
 
-This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github:
+This resource is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github:
 
 <div style="display: flex; gap: 2rem; justify-content: center">
 
@@ -26,7 +26,7 @@ This resouce is, and will always be, free of charge. If you'd like to express yo
 
 ## Target audience
 
-This guide is directed at both new and experienced software engineering candidates. It focuses on individual contributor (IC) engineering rather than engineering management. If you are interviewing for engineering management positions, there may be still be some beneficial sections of this guide; however, much of it may not be applicable.
+This guide is directed at both new and experienced software engineering candidates. It focuses on individual contributor (IC) engineering rather than engineering management. If you are interviewing for engineering management positions, there may still be some beneficial sections of this guide; however, much of it may not be applicable.
 
 ## Goals and non-goals
 

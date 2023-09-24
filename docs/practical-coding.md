@@ -6,7 +6,7 @@
 
 ## What are practical coding interviews?
 
-Practical coding interviews are my favorite types of technical assessments because they generally assess the kinds of things you'd actually be doing on the job. For example, if you're applying as a front-end engineer, your practical coding interview might be writing a small HTML, CSS, JavaScript application. If you already work as a front-end engineer, then you're practice for this style of interview every day at work!
+Practical coding interviews are my favorite types of technical assessments because they generally assess the kinds of things you'd actually be doing on the job. For example, if you're applying as a front-end engineer, your practical coding interview might be writing a small HTML, CSS, JavaScript application. If you already work as a front-end engineer, then you're practicing for this style of interview every day at work!
 
 ## Types of practical coding interviews
 

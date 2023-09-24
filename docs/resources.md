@@ -19,7 +19,7 @@ Ace your behavioral interviews with these resources.
 
 | Resource                              | Description                                                                                       | Link                                                                          |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Jeff H. Sipe's YouTube channel        | A recruiter who spent 5 years a Google talks about recommended responses to behavioral questions. | [Link](https://www.youtube.com/c/JeffHSipe)                                   |
+| Jeff H. Sipe's YouTube channel        | A recruiter who spent 5 years at Google talks about recommended responses to behavioral questions. | [Link](https://www.youtube.com/c/JeffHSipe)                                   |
 | Top 30 behavioral interview questions | Behavioral questions from the Tech Interview Handbook to practice.                                | [Link](https://www.techinterviewhandbook.org/behavioral-interview-questions/) |
 
 ## Leetcode-style interviews

@@ -17,7 +17,7 @@ I have seen two types of system design interviews:
 - **Pure design.** You just focus entirely on specifying the system and talking through how you would design it. You may draw up some diagrams to help convey architecture to the interviewer.
 - **Design + coding.** The problem is slightly smaller in breadth. You talk through the design of the system and then you write some code to start implementing it.
 
-System design interviews look a lot different depending on your specialty. I have interviewed for both front-end and full stack web application engineer positions. For front-end positions, system design interviews tend to focus on designing a UI component and then implementing the HTML, CSS, and JavaScript for that comopnent. For full stack positions, I have seen more pure design problems where you talk through various topics like how you'd make the application scale, database schema, and API design.
+System design interviews look a lot different depending on your specialty. I have interviewed for both front-end and full stack web application engineer positions. For front-end positions, system design interviews tend to focus on designing a UI component and then implementing the HTML, CSS, and JavaScript for that component. For full stack positions, I have seen more pure design problems where you talk through various topics like how you'd make the application scale, database schema, and API design.
 
 ## How to prep for system design interviews
 
@@ -25,7 +25,7 @@ The way I practice system design interviews is to do the following:
 
 1. **Create a list of the considerations that applies to the domain for which I'm interviewing.** For example, if I'm interviewing for a front-end position then my interview will likely involve topics like accessibility and internationalization.
 2. **Find relevant system design questions online.** There are a lot of good examples online. Also, it's not too difficult to come up with your own examples.
-3. **Design the systems.** Take 45 minutes to an hour to design one of the systems you've identified. Make sure you draw out/sketch architectural pieces, which will be helpful during the interview. When you're done, review your work and make sure you've addresseed all the topics that came up in the list you made. If there are any deficiencies, do some studying of those areas.
+3. **Design the systems.** Take 45 minutes to an hour to design one of the systems you've identified. Make sure you draw out/sketch architectural pieces, which will be helpful during the interview. When you're done, review your work and make sure you've addressed all the topics that came up in the list you made. If there are any deficiencies, do some studying of those areas.
 
 ### Creating a list of topics
 
@@ -60,7 +60,7 @@ Here are a couple lists of topics for front-end and backend positions. If you ha
 
 ### The part you can't practice too well: asking questions
 
-One tough aspect of system design interviews is you really don't know which items in the above lists the interviewer will be interested in, which is why you need to ask a lot of questions. For example, a good front-end clarification would be asking whether the system should support multiple languages. If the interviewer says "yes," you should spend some time explaining the achitecture for supporting different langauges. If the interviewer says "no," then you can skip this topic as you design your system.
+One tough aspect of system design interviews is you really don't know which items in the above lists the interviewer will be interested in, which is why you need to ask a lot of questions. For example, a good front-end clarification would be asking whether the system should support multiple languages. If the interviewer says "yes," you should spend some time explaining the architecture for supporting different languages. If the interviewer says "no," then you can skip this topic as you design your system.
 
 ### Use the RADAD framework
 
@@ -83,12 +83,12 @@ Here are some good clarifying questions, which may or may not be applicable depe
 If you're being asked to design a messaging service, you may ask:
 
 - How real-time the messaging needs to be
-- Whether there any special security requirements (e.g., end-to-end encryption)
+- Whether there are any special security requirements (e.g., end-to-end encryption)
 - Whether we have insight into anticipated usage numbers
 - How long messages should be retained
 - Whether messaging should support media (e.g., images and video)
 
-If you're being asked to design an calendar component, you may ask:
+If you're being asked to design a calendar component, you may ask:
 
 - Whether it needs to support multiple languages / internationalization
 - Whether it needs to support date ranges or just a single date
