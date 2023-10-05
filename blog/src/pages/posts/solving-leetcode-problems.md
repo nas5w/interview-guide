@@ -67,10 +67,29 @@ def two_sum(arr, target):
     # add current element to set of existing values
 ```
 
-Now it's time to write some code. If you couldn't think of the more optimal solution, that's okay! Just write code for the solution you figured out.
+Now it's time to write some code. If you couldn't think of the more optimal solution, that's okay! Just write code for the solution you figured out. You can even leave your comments in and you'll have good documentation of how you solved the problem:
+
+```python
+def two_sum(arr, target):
+    # create set of existing values
+    existing = set()
+    # iterate over array
+    for i in range(len(arr)):
+        # if target - current element in set of existing values, return
+        # [current, target - current]
+        if target - arr[i] in existing:
+            return [target - arr[i], arr[i]]
+         else:
+            # add current element to set of existing values
+            existing.add(arr[i])
+```
 
 ## When to "give up" on a problem
 
-# Timebox each problem
+My rule of thumb was generally to give myself no more than 20 minutes to be stuck on a problem. At that point, I would just look at an answer and really try to understand it. Then, _and this is extremely important_, I would go back to leetcode and solve the problem without looking at the solution.
+
+I can promise you that even if you _think_ you understand a solution, you probably don't and writing out the solution from memory will drill it home.
+
+Once you've solved the probem from memory, I still would recommend not considering it a "solved" problem. Flag it to revisit at a later time. You'll want to keep coming back to these problems until you fully understand them and can solve them in a sitting without referencing a solution.
 
 # Simulate as much of the environment as you can
