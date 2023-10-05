@@ -20,7 +20,7 @@ This post is going to cover how I went from struggling with easy problems to sol
 
 Sorry to disappoint, but there's a reason this post isn't called "One Surprising Coding Trick FAANG Doesn't Want You To Know!" It's because, at the end of the day, cracking a FAANG interview comes down to practicing.
 
-The good news is that all practicing isn't made equal and this post is going to really hammer home how I was able to _efficiently_ pactice leetcode and make sure the _concepts stick_.
+The good news is that all practicing isn't made equal and this post is going to really hammer home how I was able to _efficiently_ practice leetcode and make sure the _concepts stick_.
 
 This will be especially helpful for those of you who have completed dozens or even hundreds of leetcode problems but feel like you've made minimal progress. It's very possible that you're not getting the most out of your time and I really hope this post can help!
 
@@ -28,7 +28,7 @@ This will be especially helpful for those of you who have completed dozens or ev
 
 Before you even start practicing, make a plan. How many days, weeks, or months will you practice before you start interviewing? How many days per week? Which days? How many hours those days? Which problems do you plan on solving (Note: I'm a big proponent of starting with the NeetCode 150!).
 
-If you don't make a plan (and preferrably write it down), you will likely do one of two things: (1) have no structure and therefore not study or (2) have no structure and therefore study way too much and burn yourself out.
+If you don't make a plan (and preferably write it down), you will likely do one of two things: (1) have no structure and therefore not study or (2) have no structure and therefore study way too much and burn yourself out.
 
 This is especially important if you have family or dependents who rely on you. When you have a plan, they will _also_ know when you're planning on being busy and it's always good to have shared expectations.
 
@@ -90,6 +90,24 @@ My rule of thumb was generally to give myself no more than 20 minutes to be stuc
 
 I can promise you that even if you _think_ you understand a solution, you probably don't and writing out the solution from memory will drill it home.
 
-Once you've solved the probem from memory, I still would recommend not considering it a "solved" problem. Flag it to revisit at a later time. You'll want to keep coming back to these problems until you fully understand them and can solve them in a sitting without referencing a solution.
+Once you've solved the problem from memory, I still would recommend not considering it a "solved" problem. Flag it to revisit at a later time. You'll want to keep coming back to these problems until you fully understand them and can solve them in a sitting without referencing a solution.
+
+You may even want to put together a spreadsheet to track the status of each question you worked on. Mine looked like this:
+
+| Problem                     | Status                 |
+| --------------------------- | ---------------------- |
+| Two sum                     | Completed, optimal     |
+| Three sum                   | Completed, not optimal |
+| Median of Two Sorted Arrays | Needed solution        |
+
+Ideally, you'll get all the questions into a "Completed, optimal" state (or at least "Completed, not optimal").
 
 # Simulate as much of the environment as you can
+
+My final recommendation is to simulate the real interview environment, as much as you can. If you'll be interviewing remotely, then you can simulate the exact environment! This means you should be solving your problems at the desk where you plan to sit the interview. Don't have TV on in the background or other distractions.
+
+Also&mdash;and this is going to feel weird at first&mdash;talk while you're practicing your leetcode problems! You would be surprised how different it feels to solve leetcode silently versus doing so while trying to explain what you're doing. Don't let your actual interview sessions be the first time you're describing how you solve the problem.
+
+# Concluding thoughts
+
+As I mentioned near the beginning of this post, cracking a FAANG interview just wasn't in the cards for me&mdash;or so I thought. It ended up being attainable to me through disciplined practice and using the methodology described above. Good luck!
