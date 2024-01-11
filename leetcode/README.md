@@ -20,7 +20,7 @@ While it's impossible to generalize this _too_ much (companies vary), you're usu
 
 - **Coding ability.** Do you have a good grasp of control flow and logic? Can you write code relatively quickly and is it well-formated? Do you name variables logically?
 - **Algorithms/data structures.** Do you use algorithms and data structures appropriately? How optimal was the space and time complexity of your solution? Did you correctly assess the space and time complexity?
-- **Communication.** Did you explain your work well? Did you ask clarifying questions? Did you talk to tradeoffs? Can you explain technical concepts? Were you closed off or rude?
+- **Communication.** Did you explain your work well? Did you ask clarifying questions? Did you talk about tradeoffs? Can you explain technical concepts? Were you closed off or rude?
 - **Problem solving skills.** Did you take time to understand the question and ask the right clarifying questions? Did you give the interviewer the impression that you'd be rigorous in approaching new challenges?
 
 As you can see, the algorithms and data structure part is just a small piece of the puzzle. At least for me, this was a big load off my mind: of course you should try to do your best to come up with an optimal solution, but you can get pretty far by honing your skill in some of these other areas.
