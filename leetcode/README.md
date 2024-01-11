@@ -92,7 +92,7 @@ This is a very hard question to answer! I did somewhere around 220 total questio
 There are a couple of realities here:
 
 - Quality of your practicing is more important than quantity. If you complete a ton of questions but only because you look at the answer every time, you're not really developing your problem-solving skills.
-- There's a good bit of luck when you interviewing. Practicing more problems increases the likelihood that you'll have success in an interview, but there's always a decent chance even the most practiced person will be stumped.
+- There's a good bit of luck when you're interviewing. Practicing more problems increases the likelihood that you'll have success in an interview, but there's always a decent chance even the most practiced person will be stumped.
 
 The truth is I never felt truly ready to interview for Leetcode-style questions, but I did a couple hundred questions and just went for it.
 
