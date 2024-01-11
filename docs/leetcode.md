@@ -57,7 +57,7 @@ As you do each problem, make sure to try to assess the space and time complexity
 
 For each problem, I recommend trying to solve the problem on your own for at least 30 minutes. If it's a "hard" problem, go for 45 minutes to an hour.
 
-Inevitably, you'll get stuck. In fact, if you haven't done a lot of Leetcoding, you'll probably get stuck on "easy" problems (I certainly did). What helped me the most is the NeedCode tutorial video associated with each problem. They're very well done, usually whiteboarding the theory behind the solution before writing the actual code. The official Leetcode-provided solutions can also be a big help: they typically start with a "brute force" solution and then work up to smarter and smarter solutions with improved space and time complexity.
+Inevitably, you'll get stuck. In fact, if you haven't done a lot of Leetcoding, you'll probably get stuck on "easy" problems (I certainly did). What helped me the most is the NeetCode tutorial video associated with each problem. They're very well done, usually whiteboarding the theory behind the solution before writing the actual code. The official Leetcode-provided solutions can also be a big help: they typically start with a "brute force" solution and then work up to smarter and smarter solutions with improved space and time complexity.
 
 Once you understand the approaches, go back to LeetCode and write the solution yourself without the video. This was extremely important to me&mdash;watching a video of the solution and actually writing that solution out are very different things.
 
