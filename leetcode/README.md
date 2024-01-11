@@ -98,7 +98,7 @@ The truth is I never felt truly ready to interview for Leetcode-style questions,
 
 ## Hone your soft skills
 
-I've talked a lot of solving Leetcode problems, but in reality there's another piece of the Leetcode-style interview process that's comparably important: you should aim to leave the interviewer thinking, "wow, I'd love to work with that person."
+I've talked a lot about solving Leetcode problems, but in reality there's another piece of the Leetcode-style interview process that's comparably important: you should aim to leave the interviewer thinking, "wow, I'd love to work with that person."
 
 I (think) I have had success in this area by doing the following:
 
