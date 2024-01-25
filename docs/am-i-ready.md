@@ -19,5 +19,3 @@ If you even feel remotely prepared, **go for it** . What the worst that could ha
 - You get over your fear of failure (if that's something you experience)
 
 When in doubt, do the interview!
-
-<newsletter />

@@ -17,49 +17,6 @@ const {title, description, date, hero, youtube} = content;
       <BlogPost title={title} hero={hero} date={date} youtube={youtube} >
         <slot />
       </BlogPost>
-      <div class="max-w-3xl mx-auto p-6 border rounded">
-        <h3 class="text-2xl" style="margin: 0px 0px 1rem">💌 Subscribe to the newsletter!</h3>
-        <p class="my-3">
-          I'm beyond excited to announce the launch of the InterviewGuide.dev
-          Newsletter. In this free newsletter, I'll be sharing:
-        </p>
-        <ul class="list-disc pl-4 my-3">
-          <li>Additional interview tips</li>
-          <li>Curated jobs + other opportunities to land tech jobs</li>
-          <li>Ways to get feedback from me directly</li>
-        </ul>
-
-        <p class="my-3">No spam. Unsubscribe any time. Sound good?</p>
-
-        <form
-          action="https://tinyletter.com/interviewguide"
-          method="post"
-          target="popupwindow"
-          onsubmit="window.open('https://tinyletter.com/interviewguide', 'popupwindow', 'scrollbars=yes,width=800 height=600');return true"
-        >
-          <p><label for="tlemail">Email address</label></p>
-          <p>
-            <input
-              type="email"
-              required
-              class="border p-2"
-              style="
-                width: 20rem;
-                max-width: 100%;
-                font-size: 1.2rem;
-              "
-              name="email"
-              id="tlemail"
-            />
-          </p>
-          <input type="hidden" value="1" name="embed" />
-          <input
-            class="my-3 rounded border py-2 px-4 hover:text-hot-pink hover:border-hot-pink transition-all duration-300 cursor-pointer"
-            type="submit"
-            value="Sign me up!"
-          />
-        </form>
-      </div>
       <div class="text-center mt-20">
         Enjoy this post? Consider <a class="text-hot-pink border-b border-dashed hover:border-transparent hover:text-black transition-all duration-300" href="/">checking out my free Interview Guide!</a>
       </div>

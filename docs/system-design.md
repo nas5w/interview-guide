@@ -121,5 +121,3 @@ The following is a non-exhaustive list of system design questions I have heard o
 Here's an additional resource with system design interview questions and answers:
 
 - [31 system design interview questions (and sample answers)](https://igotanoffer.com/blogs/tech/system-design-interviews)
-
-<newsletter />

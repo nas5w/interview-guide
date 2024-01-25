@@ -138,5 +138,3 @@ I'm mentioning Jeff's videos again because they really were important to me. Onc
 ## Out of our comfort zone
 
 Behavioral questions, especially those that deal with interpersonal relationships, can be very much out of an engineer's comfort zone. It's tough&mdash;on one hand we're being asked to reverse a linked list and on another hand we're being asked to troubleshoot behavioral problems. Because the behavioral part is tough for a lot of folks, this can be an area for you to really shine if you prep thoroughly!
-
-<newsletter />

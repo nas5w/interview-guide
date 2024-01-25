@@ -53,5 +53,3 @@ There are a lot of concepts that I believe will just "stick" once you read them 
 ## 🚧 Under construction!
 
 This guide will always be a work in progress. Please give me some grace if you feel like I haven't covered a topic adequately or if you feel like my advice is wrong. I have a [page for feedback](/feedback) and would appreciate any feedback you have!
-
-<newsletter />

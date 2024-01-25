@@ -58,5 +58,3 @@ Practical problems are _very_ domain-specific. That being said, here are some ex
 - Create a loading bar
 - Create a slider component
 - Create an image carousel
-
-<newsletter />
