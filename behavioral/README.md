@@ -120,7 +120,7 @@ A lot of hypotheticals will involve conflict with another individual. Empathy is
 
 ### Example hypothetical questions
 
-Here are some hyopothetical questions I have heard asked over the years:
+Here are some hypothetical questions I have heard asked over the years:
 
 1. How would you handle someone who seems disengaged with work and is not carrying their weight on the team?
 2. What would you do if your manager wanted to go with a technical approach that you disagree with?
