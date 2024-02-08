@@ -11,7 +11,7 @@ This section contains the most common types of interviews you'll come across whe
 Behavioral questions attempt to gauge how you would behave in stressful or otherwise adverse conditions. There are a couple common types of behavioral questions:
 
 - **"Tell me about a time..."** These questions are based on the idea that the best predictor of future behavior is past performance. The goal is to get you to present real examples of how you have handled things like conflict and failure in the past so the company can have some insight into how you may behave in the future.
-- **Scenarios.** Rather than looking for past examples, scenario question present you with situations and you're asked how you would handle them. Interviewers are generally looking for problem solving and empathy skills when asking these questions.
+- **Scenarios.** Rather than looking for past examples, scenario questions present you with situations and you're asked how you would handle them. Interviewers are generally looking for problem solving and empathy skills when asking these questions.
 
 Studying for behavioral interviews is incredibly important! Almost any interview you do will have a behavioral component.
 
@@ -70,7 +70,7 @@ How would you design a real-time, web-based chat application?
 
 ## Technical knowledge/trivia interviews
 
-Technical trivia interviews generally don't involve writing code, but rather ask you technical questions to determine how well you know a subject area. These types of interviews get a bad rap, but their effectiveness really depends a lot on what types of questions are asked. For example, asking about some uncommon/obscure language feature that can be googled quickly is pointless and a bad way to assess someone's domain knowledge. On the other hand, asking someone about a foundational aspect of a domain works may be useful. Technical knowledge questions are fairly common in all interviews.
+Technical trivia interviews generally don't involve writing code, but rather ask you technical questions to determine how well you know a subject area. These types of interviews get a bad rap, but their effectiveness really depends a lot on what types of questions are asked. For example, asking about some uncommon/obscure language feature that can be googled quickly is pointless and a bad way to assess someone's domain knowledge. On the other hand, asking someone how a foundational aspect of a domain works may be useful. Technical knowledge questions are fairly common in all interviews.
 
 ::: info TECHNICAL KNOWLEDGE EXAMPLE QUESTION
 Tell me about some measures you might implement to make sure your web application is secure.
