@@ -16,3 +16,26 @@ If you'd like to support this guide, all I ask is that you:
 ## View the guide
 
 To view the guide online, navigate to [https://interviewguide.dev](https://interviewguide.dev).
+
+## Build the guide
+
+To build and run the guide locally, follow these steps:
+
+1. Install dependencies:
+    - Install [Node.js](https://github.com/nodejs/node?tab=readme-ov-file#download) (`>=18.7.21`)
+    - Install [Yarn](https://github.com/yarnpkg/berry?tab=readme-ov-file#installation)
+
+2. Install project dependencies:
+    ```bash
+    make install
+    ```
+   
+3. Build the guide and blog:
+    ```bash
+    make build
+    ```
+   
+4. Start the webserver and serve the build:
+    ```bash
+    yarn docs:serve
+    ```
