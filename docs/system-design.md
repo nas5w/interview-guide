@@ -62,15 +62,15 @@ Here are a couple lists of topics for front-end and backend positions. If you ha
 
 One tough aspect of system design interviews is you really don't know which items in the above lists the interviewer will be interested in, which is why you need to ask a lot of questions. For example, a good front-end clarification would be asking whether the system should support multiple languages. If the interviewer says "yes," you should spend some time explaining the achitecture for supporting different langauges. If the interviewer says "no," then you can skip this topic as you design your system.
 
-### Use the RADAD framework
+### Use the RADIO framework
 
-The Frontend Interview Handbook talks about the [RADAD framework](https://www.frontendinterviewhandbook.com/front-end-system-design/#radad-framework), which I found to be a really useful way to spend my time during the interview. The following is a copy/paste from the Frontend Interview Handbook to give you an idea of the framework, but I absolutely recommend you navigate to the handbook itself for more detail:
+The Frontend Interview Handbook talks about the [RADIO framework](https://www.frontendinterviewhandbook.com/front-end-system-design/#radio-framework), which I found to be a really useful way to spend my time during the interview. The following is a copy/paste from the Frontend Interview Handbook to give you an idea of the framework, but I absolutely recommend you navigate to the handbook itself for more detail:
 
-- **Requirements clarifications/alignment** - Ask about the requirements of the system.
-- **Architecture** - Outline the architecture of the system (could be a UI component or an app, depending on the question). Draw diagrams where relevant.
-- **Data model** - How would the component store any data passed into it? What data structures are used?
-- **API design** - What's the API for using this component? What options will be allowed on the component?
-- **Deep dive** - User Experience (UX), Performance, Accessibility (a11y), Internationalization (i18n), Multi-device support, Security
+1. **Requirements exploration**: Understand the problem thoroughly and determine the scope by asking a number of clarifying questions.
+1. **Architecture / High-level design**: Identify the key components of the product and how they are related to each other.
+1. **Data model**: Describe the various data entities, the fields they contain and which component(s) they belong to.
+1. **Interface definition (API)**: Define the interface (API) between components in the product, functionality of each API, their parameters and responses.
+1. **Optimizations and deep dive**: Discuss about possible optimization opportunities and specific areas of interest when building the product.
 
 This list is very front-end focused, but it applies equally as well to backend or full stack system design interviews.
 
