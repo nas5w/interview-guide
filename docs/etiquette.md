@@ -23,3 +23,5 @@ As always, this is not an exhaustive list of ways to have good interview etiquet
 ## Etiquette is a two-way street
 
 Interviews are also a company's chance to put its best foot forward. If you feel disrespected or mistreated during an interview, make note of that. If this is how they treat candidates they're trying to woo, they might treat employees even worse.
+
+<foot />

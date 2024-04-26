@@ -90,3 +90,5 @@ If you want to know what types of questions certain companies ask, I recommend t
 - If you're preparing for an interview at a specific company, ask your recruiter. In pretty much every case, my recruiters have told me the exact types of interviews I'll be undergoing.
 
 You'll notice the latter point as a theme throughout this handbook: ask the recruiter. They're an incredible source of information at a company and they want you to succeed. Treat them well!
+
+<foot />

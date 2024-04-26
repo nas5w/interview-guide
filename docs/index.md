@@ -50,6 +50,4 @@ This guide isn't _too_ long, so my recommendation is to read it front-to-back at
 
 There are a lot of concepts that I believe will just "stick" once you read them the first time through. During your prep, I recommend you check back to relevant sections as appropriate to refresh your memory.
 
-## 🚧 Under construction!
-
-This guide will always be a work in progress. Please give me some grace if you feel like I haven't covered a topic adequately or if you feel like my advice is wrong. I have a [page for feedback](/feedback) and would appreciate any feedback you have!
+<foot />

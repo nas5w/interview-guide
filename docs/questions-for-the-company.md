@@ -29,3 +29,5 @@ I aim to leave the "questions for the interviewer" part of the interview with tw
 
 - The interviewer thinks "wow, this candidate is really interested in this job" and
   -x I have enough information to actually make that determination.
+
+<foot />
