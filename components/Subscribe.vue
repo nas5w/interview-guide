@@ -10,16 +10,11 @@
   </p>
 
   <p>
-    Enter your email below to get started. It's free and you can unsubscribe at
-    any time. You won't regret it!
+    Click the link below to join 2.5K+ colleagues on the newsletter. It's free
+    and you can unsubscribe at any time. You won't regret it!
   </p>
 
-  <iframe
-    src="https://howthewebworks.substack.com/embed"
-    width="100%"
-    height="320"
-    style="border: 1px solid #eee; background: white"
-    frameborder="0"
-    scrolling="no"
-  ></iframe>
+  <a href="https://howthewebworks.substack.com/"
+    >Subscribe to the newsletter &raquo;</a
+  >
 </template>
