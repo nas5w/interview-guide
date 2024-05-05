@@ -14,7 +14,7 @@
     and you can unsubscribe at any time. You won't regret it!
   </p>
 
-  <a href="https://howthewebworks.substack.com/"
+  <a href="https://howthewebworks.substack.com/?r=31c2xe"
     >Subscribe to the newsletter &raquo;</a
   >
 </template>
