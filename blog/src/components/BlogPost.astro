@@ -12,21 +12,62 @@ const { title, date, hero, youtube } = Astro.props;
 <article class="max-w-5xl mx-auto px-3">
   <header class="mx-auto max-w-3xl text-center content">
     <h1 class="text-4xl my-0">{title}</h1>
-    <span class="text-lg mt-5 block">by <a href="https://nick.scialli.me">Nick Scialli</a></span>
+    <span class="text-lg mt-5 block"
+      >by <a href="https://nick.scialli.me">Nick Scialli</a></span
+    >
   </header>
 
   <!-- Image -->
-  {hero && <img class="rounded-xl mx-auto mt-12" style="width: 40rem; max-width: 100%" loading="lazy" src={hero} alt={title} />}
+  {
+    hero && (
+      <img
+        class="rounded-xl mx-auto mt-12"
+        style="width: 40rem; max-width: 100%"
+        loading="lazy"
+        src={hero}
+        alt={title}
+      />
+    )
+  }
 
   <!-- YouTube Video -->
-  {youtube && <div class="embed-responsive aspect-ratio-16/9 mt-6 lg:mt-12">
-    <iframe width="700" height="500" class="embed-responsive-item"
-      src={`https://www.youtube.com/embed/${youtube}`} frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
-  </div>}
+  {
+    youtube && (
+      <div class="embed-responsive aspect-ratio-16/9 mt-6 lg:mt-12">
+        <iframe
+          width="700"
+          height="500"
+          class="embed-responsive-item"
+          src={`https://www.youtube.com/embed/${youtube}`}
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+          allowfullscreen
+        />
+      </div>
+    )
+  }
 
   <!-- Content -->
   <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
+    <div class="rounded border-2 border-dashed border-pink-400 mb-10 p-5">
+      <h2 class="m-0 mb-5 p-0">🎓 Learn how the web works</h2>
+      <p class="mb-5">
+        Over my 20 year career in tech, I have noticed that an often-neglected
+        part of interview prep is learning to explain technical concepts
+        clearly. In my free newsletter, How the Web Works, I provide simple,
+        bite-sized explanations for various web topics that you can use in your
+        interview prep (or just to gain a better understanding of the web).
+      </p>
+      <p class="mb-5">
+        Click the link below to join 2.5K+ colleagues on the newsletter. It's
+        free and you can unsubscribe at any time. You won't regret it!
+      </p>
+
+      <a href="https://howthewebworks.substack.com/"
+        >Subscribe to the newsletter &raquo;</a
+      >
+    </div>
+
     <slot />
   </section>
 </article>
