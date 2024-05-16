@@ -76,8 +76,10 @@ export default {
           { text: "Resources", link: "/resources" },
           { text: "Feedback", link: "/feedback" },
           { text: "Credits", link: "/credits" },
+          { text: "Support this guide", link: "/support" },
         ],
       },
     ],
+    nav: [{ text: "Support this guide", link: "/support" }],
   },
 };
