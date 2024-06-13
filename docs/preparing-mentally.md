@@ -34,7 +34,7 @@ For some folks, thinking about interview prep can dominate your life if you're n
 
 ## Make sure your family is on board
 
-In the next section, we'll talk about combining milestones and time-boxing into a scheudule. Once you have a schedule, make sure your loved ones are on board (if applicable). This is especially important if you need to do fewer chores or a bit less childcare while you're studying. If you have a plan and your family is on board, it'll make it much easier to manage your prep along with your personal life.
+In the next section, we'll talk about combining milestones and time-boxing into a schedule. Once you have a schedule, make sure your loved ones are on board (if applicable). This is especially important if you need to do fewer chores or a bit less childcare while you're studying. If you have a plan and your family is on board, it'll make it much easier to manage your prep along with your personal life.
 
 ## Reframe your thinking around failure
 

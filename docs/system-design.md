@@ -25,7 +25,7 @@ The way I practice system design interviews is to do the following:
 
 1. **Create a list of the considerations that applies to the domain for which I'm interviewing.** For example, if I'm interviewing for a front-end position then my interview will likely involve topics like accessibility and internationalization.
 2. **Find relevant system design questions online.** There are a lot of good examples online. Also, it's not too difficult to come up with your own examples.
-3. **Design the systems.** Take 45 minutes to an hour to design one of the systems you've identified. Make sure you draw out/sketch architectural pieces, which will be helpful during the interview. When you're done, review your work and make sure you've addresseed all the topics that came up in the list you made. If there are any deficiencies, do some studying of those areas.
+3. **Design the systems.** Take 45 minutes to an hour to design one of the systems you've identified. Make sure you draw out/sketch architectural pieces, which will be helpful during the interview. When you're done, review your work and make sure you've addressed all the topics that came up in the list you made. If there are any deficiencies, do some studying of those areas.
 
 ### Creating a list of topics
 

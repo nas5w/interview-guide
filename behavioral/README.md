@@ -10,7 +10,7 @@ Behavioral interviews gauge your soft and interpersonal skills rather than your 
 
 - No one wants to work with a jerk
 - Engineers often have to handle ambiguity
-- Companies want engineers that perform well under stress
+- Companies want engineers who perform well under stress
 
 It has become increasingly popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpersonal relationships.
 
@@ -42,12 +42,12 @@ My favorite way to prepare for past experience questions is to make a table. The
 - Leadership
 - Conflicts
 
-Those become the rows of my table. The columns are all the different projects I want to talk about. I try my best to come up with an example for each row from each project. Here's a fictitious completed table:
+Those become the rows of my table. The columns are all the different projects I want to talk about. I try my best to come up with an example for each row from each project. Here's a fictitious, completed table:
 
 | Theme      | Project A                                                                                                         | Project B                                                                                      | Project C                                                                                                                                         |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Challenges | Deployment process was a mess. I helped implement CD.                                                             | Team morale was low. I created social events and 1:1 calls.                                    | Complex, nested form logic shared between clients. I implemented JSON schema that could be consumed by various parties and used to validate data. |
-| Successes  | Reduced average request time from 1.5s to 750ms.                                                                  | Handled exponential application growth from 1,000 requests per day to 50,000 requests per day. | The product beta launched with 1,000 users. customers.                                                                                            |
+| Successes  | Reduced average request time from 1.5s to 750ms.                                                                  | Handled exponential application growth from 1,000 requests per day to 50,000 requests per day. | The product beta launched with 1,000 users.                                                                                           |
 | Failures   | I pushed code to production that formatted dates incorrectly and caused an API endpoint to fail on every request. | N/A                                                                                            | Mismanaged relationship between tech team and partner tech teams caused some partners to back out.                                                |
 | Enjoyed    | Teaching developers about CD.                                                                                     | My first exposure to CDNs and rapid scaling. Really enjoyed learning about this subject area.  | I got to sit in on user research. Was really interesting to see how users actually use the software.                                              |
 | Leadership | I had to present my vision for better engineering practices to the CTO.                                           | No one was an infrastructure specialist so I stepped up to lead that area.                     | N/A                                                                                                                                               |
@@ -116,7 +116,7 @@ It's possible the interview says "it's up to you" in response to a lot of these 
 
 ### Interpersonal problem-solving
 
-A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solution treats the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
+A lot of hypotheticals will involve conflict with another individual. Empathy is important here. You'll want to make sure your proposed solutions treat the other party like a human. Make sure your approach solves problems _collaboratively_ with that individual. In the previous example where we have an employee who is disengaged and not performing, perhaps we recommend a 1:1 to try to get to the bottom of the situation and then collaboratively come up with an action plan to get the employee back on track.
 
 ### Example hypothetical questions
 
