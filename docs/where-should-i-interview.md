@@ -12,7 +12,7 @@ Where you should interview depends a lot on your personal preferences. Are you i
 
 FAANG and big tech have pros and cons. One advantage of gaining employment with one of these companies is having "Google" or "Apple" on your r&eacute;sum&eacute; opens a lot of doors&mdash;your response rate for job applications will increase greatly.
 
-Of course, big tech has its cons. These companies are large and you may not have a chance to make the size impact that you could at a smaller company or startup. Additionally, you may not enjoy the bureaucracy.
+Of course, big tech has its cons. At larger companies, it may be more challenging to make a significant impact than at smaller companies or startups. Additionally, you may not enjoy the bureaucracy.
 
 With respect to interviewing, FAANG and big tech companies tend to do Leetcode-style interviews. If you don't want to do Leetcode, you should look elsewhere.
 
