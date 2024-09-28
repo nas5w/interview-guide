@@ -6,7 +6,7 @@
 
 ## What is a behavioral interview?
 
-Behavioral interviews gauge your soft and interpersonal skills rather than your technical accumen. Pretty much every company has a behavioral interview component. This is for some very good reasons:
+Behavioral interviews gauge your soft and interpersonal skills rather than your technical acumen. Pretty much every company has a behavioral interview component. This is for some very good reasons:
 
 - No one wants to work with a jerk
 - Engineers often have to handle ambiguity
