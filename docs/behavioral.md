@@ -12,7 +12,7 @@ Behavioral interviews gauge your soft and interpersonal skills rather than your 
 - Engineers often have to handle ambiguity
 - Companies want engineers that perform well under stress
 
-It has become increasing popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpresonal relationships.
+It has become increasing popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpersonal relationships.
 
 ::: tip RESOURCE ALERT!
 One of my favorite resources for behavioral interviews is [Jeff Sipe's YouTube channel](https://www.youtube.com/c/JeffHSipe). He's a former Google recruiter and does a great job talking about the kind of empathy and interpersonal skills tech companies look for. I highly recommend you watch some of his videos.
