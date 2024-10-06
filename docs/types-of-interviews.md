@@ -33,7 +33,7 @@ At our company, one of our core values is "team above individual." How have you 
 
 Leetcode-style interviews are probably the most famous, or should I say infamous, type of interview. [Leetcode is a website](https://leetcode.com/) with algorithm and data structure programming problems. In Leetcode-style interviews, you solve algorithm and data structure challenges in front of one or more interviewers. These challenges are performed on a white board or a computer depending on the company's preference and whether the interview is being conducted in-person or remotely.
 
-These challenges aim to test your problem solving, collaboration, and technical skill. Often, interviewers will ask for your understanding of the time and space complexity required to run the algorithm.
+These challenges aim to test your problem solving, collaboration, and technical skills. Often, interviewers will ask for your understanding of the time and space complexity required to run the algorithm.
 
 These types of interviews were popularized by big tech companies but are used throughout the industry. For those of us who are really uncomfortable with this type of interview, there are plenty of companies that do not use Leetcode-style interviews.
 
