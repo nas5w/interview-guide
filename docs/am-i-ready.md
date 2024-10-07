@@ -12,7 +12,7 @@ Someone who has done little prep could get lucky: they could get an interview th
 
 ## When in doubt, interview
 
-If you even feel remotely prepared, **go for it** . What the worst that could happen? You don't get the job. In that case:
+If you even feel remotely prepared, **go for it**. What the worst that could happen? You don't get the job. In that case:
 
 - You've gained some great experience
 - You can likely apply to the same company again in 6 to 12 months
