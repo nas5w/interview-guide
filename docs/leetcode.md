@@ -21,7 +21,7 @@ While it's impossible to generalize this _too_ much (companies vary), you're usu
 - **Communication.** Did you explain your work well? Did you ask clarifying questions? Did you talk to tradeoffs? Can you explain technical concepts? Were you closed off or rude?
 - **Problem solving skills.** Did you take time to understand the question and ask the right clarifying questions? Did you give the interviewer the impression that you'd be rigorous in approaching new challenges?
 
-As you can see, the algorithms and data structure part is just a small piece of the puzzle. At least for me, this was a big load off my mind: of course you should try to do your best to come up with an optimal solution, but you can get pretty far by honing you skill in some of these other areas.
+As you can see, the algorithms and data structure part is just a small piece of the puzzle. At least for me, this was a big load off my mind: of course you should try to do your best to come up with an optimal solution, but you can get pretty far by honing your skill in some of these other areas.
 
 ## How to prepare for Leetcode-style interviews
 
