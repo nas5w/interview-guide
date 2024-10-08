@@ -28,6 +28,6 @@ Questions to ask can range from general, process-related questions to more domai
 I aim to leave the "questions for the interviewer" part of the interview with two outcomes:
 
 - The interviewer thinks "wow, this candidate is really interested in this job" and
-  -x I have enough information to actually make that determination.
+- I have enough information to actually make that determination.
 
 <foot />
