@@ -29,7 +29,7 @@ The way I practice system design interviews is to do the following:
 
 ### Creating a list of topics
 
-Here are a couple lists of topics for front-end and backend positions. If you have a different specialty, do so googling to find out the relevant topics for your domain.
+Here are a couple lists of topics for front-end and backend positions. If you have a different specialty, do some googling to find out the relevant topics for your domain.
 
 #### Front-end
 
