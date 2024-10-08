@@ -20,7 +20,7 @@ There are a few potential outcomes I have seen at this point:
 
 - **An offer.** Huzzah!
 - **Hiring manager discussion.** If the recruiter sets you up with a discussion with your potential future hiring manager, this is a really good sign. You're at least in very strong contention for an offer or they already know they'll make one.
-- **More interviews.** Some companies will send you to more interviews if they want to hire you but need a bit more information to feel comfortable making that decision. Which having to do more interviews can be frustrating, I think this is actually a great result! The company is willing to spend more time and energy on hiring you.
+- **More interviews.** Some companies will send you to more interviews if they want to hire you but need a bit more information to feel comfortable making that decision. While having to do more interviews can be frustrating, I think this is actually a great result! The company is willing to spend more time and energy on hiring you.
 - **Not selected.** My most frequent result! This always stinks, but remember the baseball player analogy I made earlier: the best players in the game only get on base 1/3 of the time. The best interview candidates do even worse than that. When you're not selected, you usually just get a template email from the recruiter.
 
 ## Handling offers
