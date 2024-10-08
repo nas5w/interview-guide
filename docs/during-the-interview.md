@@ -33,7 +33,7 @@ Here is a non-exhaustive list of communication tips when you interview.
 - **Over-communicate about your thought process.** One of the biggest mistakes candidates make time and time again is being silent while they try to figure out, or solve, a problem. Interviewers can't read your mind, so the only way for them to get positive signals, aside from a correct answer, is to hear how you think. This also has additional benefits&mdash;if you're going down a bad path, the interviewer may stop and redirect you!
 - **Ask genuine questions about the company or job.** During most interviews, you're given the chance to ask the interviewer questions about the company or job. In fact, this is often at the end of the interview and will be the interviewer's last impression of you. It's a low pressure way to demonstrate that you're interested in the job! Use this to your advantage.
 - **Be friendly.** Interviewing is really stressful and stress can make us act in suboptimal ways. Try to remember the human element: you probably like working with friendly people and your interviewer does too.
-- **Be optimistic.** I have passed interviews that I was _sure_ I was failing during the interview. Do not trust your panicky interview brain. Assume that you always still have a shot to pass the interviewer and act accordingly.
+- **Be optimistic.** I have passed interviews that I was _sure_ I was failing during the interview. Do not trust your panicky interview brain. Assume that you always still have a shot to pass the interview and act accordingly.
 
 ## Communicating when you're stuck
 
