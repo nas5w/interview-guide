@@ -83,7 +83,7 @@ Here are some good clarifying questions, which may or may not be applicable depe
 If you're being asked to design a messaging service, you may ask:
 
 - How real-time the messaging needs to be
-- Whether there any special security requirements (e.g., end-to-end encryption)
+- Whether there are any special security requirements (e.g., end-to-end encryption)
 - Whether we have insight into anticipated usage numbers
 - How long messages should be retained
 - Whether messaging should support media (e.g., images and video)
