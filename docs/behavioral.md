@@ -6,13 +6,13 @@
 
 ## What is a behavioral interview?
 
-Behavioral interviews gauge your soft and interpersonal skills rather than your technical accumen. Pretty much every company has a behavioral interview component. This is for some very good reasons:
+Behavioral interviews gauge your soft and interpersonal skills rather than your technical acumen. Pretty much every company has a behavioral interview component. This is for some very good reasons:
 
 - No one wants to work with a jerk
 - Engineers often have to handle ambiguity
 - Companies want engineers that perform well under stress
 
-It has become increasing popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpresonal relationships.
+It has become increasing popular for companies to try to assess your _emotional intelligence_ and _empathy_ as well. They want to know that you can see things from other people's points of view and that you can negotiate tricky interpersonal relationships.
 
 ::: tip RESOURCE ALERT!
 One of my favorite resources for behavioral interviews is [Jeff Sipe's YouTube channel](https://www.youtube.com/c/JeffHSipe). He's a former Google recruiter and does a great job talking about the kind of empathy and interpersonal skills tech companies look for. I highly recommend you watch some of his videos.
@@ -47,7 +47,7 @@ Those become the rows of my table. The columns are all the different projects I 
 | Theme      | Project A                                                                                                         | Project B                                                                                      | Project C                                                                                                                                         |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Challenges | Deployment process was a mess. I helped implement CD.                                                             | Team morale was low. I created social events and 1:1 calls.                                    | Complex, nested form logic shared between clients. I implemented JSON schema that could be consumed by various parties and used to validate data. |
-| Successes  | Reduced average request time from 1.5s to 750ms.                                                                  | Handled exponential application growth from 1,000 requests per day to 50,000 requests per day. | The product beta launched with 1,000 users. customers.                                                                                            |
+| Successes  | Reduced average request time from 1.5s to 750ms.                                                                  | Handled exponential application growth from 1,000 requests per day to 50,000 requests per day. | The product beta launched with 1,000 users/customers.                                                                                            |
 | Failures   | I pushed code to production that formatted dates incorrectly and caused an API endpoint to fail on every request. | N/A                                                                                            | Mismanaged relationship between tech team and partner tech teams caused some partners to back out.                                                |
 | Enjoyed    | Teaching developers about CD.                                                                                     | My first exposure to CDNs and rapid scaling. Really enjoyed learning about this subject area.  | I got to sit in on user research. Was really interesting to see how users actually use the software.                                              |
 | Leadership | I had to present my vision for better engineering practices to the CTO.                                           | No one was an infrastructure specialist so I stepped up to lead that area.                     | N/A                                                                                                                                               |
@@ -62,7 +62,7 @@ The STAR method is a popular framework for answering past experience questions. 
 - **A**ction - What action did you personally take to make the situation better (or if it was a mistake, what mistake did you make)?
 - **R**esult - What was the result? How did your action get things back on track? Or what happened as a result of your mistake?
 
-If appropriate to the situation, add a final thougth on what you learned. Companies like when candidates are capable of reflection and self-improvement.
+If appropriate to the situation, add a final thought on what you learned. Companies like when candidates are capable of reflection and self-improvement.
 
 ### Quantify!
 

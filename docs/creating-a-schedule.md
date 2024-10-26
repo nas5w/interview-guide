@@ -24,7 +24,7 @@ If you didn't get a response all month, it's possible you need to adjust your r&
 
 ## Schedules vary greatly
 
-One of the least fair part about interviewing is the amount one person can prepare varies greatly from the amount another person can prepare. If you are younger and relatively unattached, you may have a lot of free time. If you have a spouse, children, and/or other obligations, it becomes a _lot_ harder. Some people spend 4 hours a day prepping and others can only prep a few hours per week.
+One of the least fair parts about interviewing is the amount one person can prepare varies greatly from the amount another person can prepare. If you are younger and relatively unattached, you may have a lot of free time. If you have a spouse, children, and/or other obligations, it becomes a _lot_ harder. Some people spend 4 hours a day prepping and others can only prep a few hours per week.
 
 ## Stick to the schedule
 

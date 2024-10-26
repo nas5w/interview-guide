@@ -6,7 +6,7 @@
 
 ## It depends
 
-Where you should interview depends a lot on your personal preferences. Are you intent the "prestige" of a FAANG (Facebook, Apple, Amazon, Netflix, Google) company? Or big tech? Or do you explicitly _not_ want to be in a big tech company? Do you want to avoid doing Leetcode-style interviews?
+Where you should interview depends a lot on your personal preferences. Are you intent on the "prestige" of a FAANG (Facebook, Apple, Amazon, Netflix, Google) company? Or big tech? Or do you explicitly _not_ want to be in a big tech company? Do you want to avoid doing Leetcode-style interviews?
 
 ## Interviewing with big tech
 
