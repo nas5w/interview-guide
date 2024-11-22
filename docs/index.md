@@ -6,7 +6,7 @@
 
 ## Welcome to my interview guide!
 
-My name is [Nick](https://www.linkedin.com/in/nicholasscialli/) and I'm a senior software engineer at Microsoft. I have participated in around 100 software engineering interviews on both sides of the table&mdash;as a candidate and an interviewer. I have passed interviews at both big tech/FAANG companies as well as smaller startups.
+My name is Nick ([LinkedIn](https://www.linkedin.com/in/nicholasscialli/), [BlueSky](https://bsky.app/profile/nick.scialli.me)) and I'm a senior software engineer at Microsoft. I have participated in around 100 software engineering interviews on both sides of the table&mdash;as a candidate and an interviewer. I have passed interviews at both big tech/FAANG companies as well as smaller startups.
 
 This guide is my attempt to codify my opinionated interview process for the benefit of the software development community.
 
