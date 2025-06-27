@@ -80,6 +80,11 @@ export default {
         ],
       },
     ],
-    nav: [{ text: "Support this guide", link: "/support" }],
+    nav: [
+      {
+        text: "Support this guide",
+        link: "https://buy.stripe.com/4gM9AUfsj6xt6Es53y4c800",
+      },
+    ],
   },
 };

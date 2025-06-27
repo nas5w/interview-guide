@@ -16,13 +16,17 @@ Everything in this guide represents my own views and not the views of any of my 
 
 ## Supporting this guide
 
-This resouce is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github:
+This resource is, and will always be, free of charge. If you'd like to express your support for this work, I would appreciate if you starred the repository on Github:
 
 <div style="display: flex; gap: 2rem; justify-content: center">
 
 <star />
 
 </div>
+
+You can also _very_ optionally "buy" this online guide for whatever price you want. I appreciate any support!
+
+[Buy now](https://buy.stripe.com/4gM9AUfsj6xt6Es53y4c800)
 
 ## Target audience
 

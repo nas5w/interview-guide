@@ -8,10 +8,11 @@ This guide is my attempt to codify my opinionated interview process for the bene
 
 ## Support this guide
 
-If you'd like to support this guide, all I ask is that you:
+You can support this guide in a few ways:
 
-1. ⭐️ star the repo and
+1. ⭐️ star the repo
 2. share it with anyone who might be interested
+3. [pay what you want for the guide](https://buy.stripe.com/4gM9AUfsj6xt6Es53y4c800)
 
 ## View the guide
 
