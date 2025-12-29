@@ -1,5 +1,6 @@
 ---
 import BaseHead from '../components/Head/BaseHead.astro';
+import StructuredData from '../components/Head/StructuredData.astro';
 import Nav from '../components/Nav.astro';
 import HomeHeader from '../components/HomeHeader.astro';
 import Card from '../components/Card.astro';
@@ -21,6 +22,7 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
 
 <head>
   <BaseHead title={title} description={seoDescription} />
+  <StructuredData type="website" description={seoDescription} />
 </head>
 
 <body class="bg-white text-black font-body leading-normal personality-casual">

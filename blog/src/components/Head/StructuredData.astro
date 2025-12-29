@@ -1,0 +1,71 @@
+---
+export interface Props {
+  type: 'article' | 'website' | 'organization';
+  title?: string;
+  description?: string;
+  datePublished?: string;
+  dateModified?: string;
+  image?: string;
+  url?: string;
+  tags?: string[];
+}
+
+const { type, title, description, datePublished, dateModified, image, tags, url } = Astro.props;
+
+const siteUrl = 'https://interviewguide.dev';
+const currentUrl = url || new URL(Astro.url.pathname, siteUrl).href;
+const imageUrl = image ? new URL(image, siteUrl).href : new URL('/blog/images/social.jpg', siteUrl).href;
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "InterviewGuide.dev",
+  "url": siteUrl,
+  "logo": {
+    "@type": "ImageObject",
+    "url": `${siteUrl}/blog/images/social.jpg`
+  },
+  "description": "A free, comprehensive guide for software development interviews",
+  "sameAs": [
+    "https://github.com/nas5w/interview-guide"
+  ]
+};
+
+let schema;
+
+if (type === 'article') {
+  schema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description,
+    "image": imageUrl,
+    "datePublished": datePublished,
+    "dateModified": dateModified || datePublished,
+    "author": {
+      "@type": "Person",
+      "name": "Nick",
+      "url": siteUrl
+    },
+    "publisher": organizationSchema,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": currentUrl
+    },
+    ...(tags && tags.length > 0 ? { "keywords": tags.join(', ') } : {})
+  };
+} else if (type === 'website') {
+  schema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "InterviewGuide.dev",
+    "url": siteUrl,
+    "description": description || "A free, comprehensive guide for software development interviews",
+    "publisher": organizationSchema
+  };
+} else if (type === 'organization') {
+  schema = organizationSchema;
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

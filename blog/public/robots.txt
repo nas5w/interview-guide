@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://howtocode.io/sitemap.xml
+Sitemap: https://interviewguide.dev/blog/sitemap-index.xml
+Sitemap: https://interviewguide.dev/sitemap.xml

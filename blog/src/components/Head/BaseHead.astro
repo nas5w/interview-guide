@@ -5,10 +5,14 @@ import '../../styles/main.scss'
 export interface Props {
 title: string;
 description: string;
+image?: string;
 }
-const { title, description } = Astro.props;
+const { title, description, image } = Astro.props;
 
-let permalink = 'https://howtocode.io';
+const siteUrl = 'https://interviewguide.dev';
+const currentPath = Astro.url.pathname;
+const canonicalURL = new URL(currentPath, siteUrl).href;
+const socialImage = image ? new URL(image, siteUrl).href : new URL('/blog/images/social.jpg', siteUrl).href;
 ---
 
 <GoogleAnalytics />
@@ -16,8 +20,9 @@ let permalink = 'https://howtocode.io';
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<link rel="sitemap" href="/sitemap.xml"/>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+<link rel="canonical" href={canonicalURL} />
+<link rel="sitemap" href="/blog/sitemap.xml"/>
+<link rel="icon" type="image/x-icon" href="/blog/images/favicon.ico" />
 
 
 <!-- Primary Meta Tags -->
@@ -27,17 +32,18 @@ let permalink = 'https://howtocode.io';
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content={permalink} />
+<meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content="/images/social.jpg" />
+<meta property="og:image" content={socialImage} />
+<meta property="og:site_name" content="InterviewGuide.dev" />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={permalink} />
+<meta property="twitter:url" content={canonicalURL} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content="/images/social.jpg" />
+<meta property="twitter:image" content={socialImage} />
 
 <!-- Prism CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-tomorrow.min.css" />
